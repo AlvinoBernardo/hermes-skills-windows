@@ -1,0 +1,1341 @@
+# Mino Lee proven hook bank (talking videos only)
+
+229 hooks from his talking videos (talking head, voiceover b-roll, talking vlogs, screen tutorials) that beat **2x the median of the ~30 posts around them**. Instagram @minolee.mp4: at least 200k views (account median ~89k). TikTok @mino.mp4: at least 40k views (median ~13k). Skits, memes, music montages, the @mino1ee comedy account and a paid ad are excluded. Pulled 2026-10-26; posts from the last 7 days are excluded.
+
+Each line: **outlier** · views · IG/TT · date · length. Spoken = the first line as he says it. Text = the on-screen hook. Template = the reusable shape.
+
+## challenge_experiment (23)
+
+- **63.23x** · 5.8M · IG · 2024-05-09 · 62s · voiceover_broll · [link](https://www.instagram.com/reel/C6uGU4xxKV_/)
+  - Spoken: Is it possible to ace a final after studying for just one hour? My rhetorical traditions final is tomorrow and I have not gone to class in a month.
+  - Text: ACE / 1 HOUR?
+  - Template: `is it possible to [ambitious result] in just [tiny timeframe]?`
+  - Visual: Selfie on a sunny campus lawn, then cut to him at a laptop in a gothic library; big ACE / 1 HOUR? text
+  - Why: Universal student stakes + absurd constraint (1 hour, skipped class a month) makes an irresistible 'can he do it' loop; broke far outside his niche (63x).
+- **60.52x** · 2.6M · IG · 2023-10-14 · 82s · talking_head · [link](https://www.instagram.com/reel/CyXDC9ws3Qj/)
+  - Spoken: Is it possible to ace a midterm after studying for just one hour? My midterm is tomorrow and I f*cking hate studying, so I devised a plan to get the highest grade possible after studying for exactly one hour.
+  - Template: `is it possible to [hard outcome] after [tiny input] for just [short time]?`
+  - Visual: Sunny campus selfie walking; captions word-by-word, 'ONE HOUR?' in bold caps with shocked open mouth on frame 3.
+  - Why: Universal student pain + impossible-sounding constraint + real deadline tomorrow; biggest outlier in batch (60x).
+- **51.85x** · 4.6M · IG · 2024-09-13 · 86s · talking_head · [link](https://www.instagram.com/reel/C_1IQzyI6Y6/)
+  - Spoken: Ever since I was 5 years old, I always wondered: is it possible to get one of the big prizes at an arcade?
+  - Template: `ever since i was [age], i always wondered: is it possible to [childhood dream feat]?`
+  - Visual: Neon-lit arcade selfie talking to camera, word-by-word captions, cut at 2.5s to him kneeling over a pile of prize tickets — proof of payoff teased instantly.
+  - Why: Universal childhood curiosity + 'the house always wins' conflict + ticket-pile payoff shown in frame 3; broad non-niche appeal = 51x outlier.
+- **39.09x** · 2.2M · IG · 2023-12-20 · 86s · vlog_story · [link](https://www.instagram.com/reel/C1FQ6QIuxPo/)
+  - Spoken: Is it possible to ace a final after studying for just one hour? My interpersonal relations final is tomorrow and obviously you don't want to study.
+  - Text: ACE ... for just
+  - Template: `is it possible to [ambitious result] after [tiny input] for just [short time]?`
+  - Visual: Selfie walk on a gothic campus with kinetic word captions, cut to library desk with a '58' countdown timer overlay.
+  - Why: Universal student pain + ticking-clock stakes and a binary outcome to wait for; 39x, top of batch.
+- **28.28x** · 3.4M · IG · 2025-05-09 · 64s · talking_head · [link](https://www.instagram.com/reel/DJaWdvdxVOw/)
+  - Spoken: Is it possible to get a really good chest, tricep and shoulder workout in just 3 minutes? I'm traveling right now so I don't really have much time.
+  - Template: `is it possible to get a really good [result] in just [tiny timeframe]?`
+  - Visual: Tank-top bedroom selfie close-up, then cut to shirtless full-body physique with 'chest'/'tricep' labels placed on the muscles.
+  - Why: Mass-appeal fitness challenge with an absurdly small timeframe plus physique on screen by 2 s; escapes the creator niche (28x).
+- **27.51x** · 2.1M · IG · 2024-02-22 · 61s · vlog_story · [link](https://www.instagram.com/reel/C3oMwfCxhoT/)
+  - Spoken: Is it possible to ace a midterm after studying for just one hour?
+  - Template: `is it possible to [ace high-stakes test] after [tiny effort] for just [short time]?`
+  - Visual: Selfie on campus quad then cut to Hogwarts-style library with a big 59→51 countdown timer on screen — ticking clock visual.
+  - Why: Relatable student stakes + on-screen countdown timer creates urgency; strong format he repeated ('third time doing this'); 27.5x.
+- **26.12x** · 3.6M · IG · 2025-01-11 · 61s · talking_head · [link](https://www.instagram.com/reel/DEr4pQwRLGr/)
+  - Spoken: Apparently if you take a nap for 20 minutes right after chugging caffeine, it makes you the most wired and awake you have ever been. It's currently 1:20 a.m.
+  - Template: `apparently if you [weird hack], it makes you [extreme result]. it's currently [time]`
+  - Visual: Night apartment, city lights in window; he chugs a white caffeine bottle by frame 3; word-by-word captions.
+  - Why: Weird, testable life hack ('coffee nap') + live late-night stakes = broad non-niche curiosity; 26x.
+- **24.35x** · 3.2M · IG · 2025-10-01 · 81s · talking_head · [link](https://www.instagram.com/reel/DPRiRWLj0RO/)
+  - Spoken: Is it possible to start a business in one day and make $1,000 from it? So the goal today is to build a $19 digital product and sell it to 100 people.
+  - Text: 6:32am / $0 — is it possible to start a business in 1 day and make $1,000
+  - Template: `is it possible to [big outcome] in [short timeframe]? the goal today is to [specific plan with numbers]`
+  - Visual: Lying in bed at 6:32am, '$0' counter on screen, word-by-word captions ending in yellow '$1,000'.
+  - Why: Huge (24x): an impossible-sounding money challenge with a live $0 counter and timestamp makes viewers stay to see if he pulls it off.
+- **20.41x** · 2.7M · IG · 2025-10-15 · 79s · voiceover_broll · [link](https://www.instagram.com/reel/DP1URJWkSG2/)
+  - Spoken: is it possible to learn a backflip in 1 hour?
+  - Text: is it possible to learn a backflip in 1 hour?
+  - Template: `is it possible to learn a [hard physical skill] in [short timeframe]?`
+  - Visual: Wide gym shot with climbing ropes; him mid-flip attempt from frame 1, 'backflip' highlighted green.
+  - Why: 20x: universally understood impossible-sounding challenge + live attempt in frame 1 forces you to watch for the outcome.
+- **20.38x** · 1.1M · IG · 2023-10-22 · 87s · vlog_story · [link](https://www.instagram.com/reel/CyqzE4WRe76/)
+  - Spoken: Is it possible to make an entire business in one day and make my first thousand dollars off of it? So I'm in college right now...
+  - Template: `is it possible to [build big thing] in [one day] and make my first [$ amount] off of it?`
+  - Visual: Selfie in classroom, then cuts to him on laptop in boardroom and lecture hall; 'ENTIRE' and 'ONE DAY?' in caps.
+  - Why: Same 'is it possible...one [time unit]' challenge frame as the 60x midterm video, applied to money; 20x.
+- **12.23x** · 2.5M · IG · 2025-12-23 · 38s · talking_head · [link](https://www.instagram.com/reel/DSlOx7RlDdV/)
+  - Spoken: 22 days ago I started a brand new Instagram account to see if I could make $10,000 from it in just 30 days, and we just made...
+  - Text: 22 days ago I started a... to see if
+  - Template: `[N] days ago i started a brand new [account/project] to see if i could make [$ goal] in just [timeframe], and we just made...`
+  - Visual: Fast selfie cuts: street, subway, then phone showing a fresh 4-post IG profile as proof
+  - Why: Money experiment with a hard deadline and an unfinished 'and we just made...' open loop forces watch-through → 12x.
+- **6.02x** · 105k · TT · 2026-06-07 · 41s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7648381298179935518)
+  - Spoken: Can I make $[X] on an 8-hour flight?
+  - Text: Can I make [$X] on a[n] 8[-hour flight]
+  - Template: `can i make $[amount] on a [duration] [flight/commute]?`
+  - Visual: Selfie in a dim airplane cabin with purple mood lighting, cut to laptop on tray table by the window — word-by-word captions.
+  - Why: Challenge with a built-in clock (one flight) and money stakes + cinematic airplane setting = must-see-ending; 6x.
+- **4.57x** · 42k · TT · 2023-03-26 · 85s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7214720600479255851)
+  - Spoken: Today I'm starting a challenge called Project 129, which is basically a challenge where I have to make $300,000 within the next 129 days through my TikTok business.
+  - Text: today I'm starting a challenge which is basically a challenge
+  - Template: `today i'm starting [Project N]: i have to make $[amount] in the next [N] days through [vehicle]`
+  - Visual: Bright bedroom selfie, energetic delivery with small centered captions; nothing visual signals the challenge — the spoken stakes do the work.
+  - Why: Huge, specific money+deadline stake creates a follow-for-the-outcome reason; 4.6x.
+- **4.11x** · 369k · IG · 2024-05-17 · 36s · talking_head · [link](https://www.instagram.com/reel/C7E64oJxLJP/)
+  - Spoken: Is it possible to ace a final after studying for just one hour? Well, I did this two weeks ago, studying exactly for just one hour, and today we got our test results back.
+  - Text: 1 HOUR?
+  - Template: `is it possible to [hard result] after [tiny effort]? i tried it [time] ago and today we got the results back`
+  - Visual: Talking head, then cut to him at a laptop in a gothic library with a '45' timer overlay and '1 HOUR?' text.
+  - Why: 4.1x: low-effort/high-reward challenge with a built-in results reveal, timer on screen in a library.
+- **3.89x** · 319k · IG · 2024-10-06 · 47s · talking_head · [link](https://www.instagram.com/reel/DAwDqN1R1v6/)
+  - Spoken: When you're first starting out posting content online, should you focus on quality or quantity? I tested this thesis.
+  - Text: harsh truth: why you need to start posting once every day
+  - Template: `harsh truth: why you need to [habit]. should you focus on [A] or [B]? i tested this for [N] days`
+  - Visual: Letterboxed 'podcast' layout on black: bold title bar on top, him beside a whiteboard graph of a hockey-stick growth curve.
+  - Why: Classic creator dilemma answered by his own 60-day experiment, with title-card clarity; 3.9x.
+- **3.66x** · 459k · IG · 2025-04-21 · 44s · talking_head · [link](https://www.instagram.com/reel/DIrj9kDxO0O/)
+  - Spoken: Is it possible to make $1,000 in five minutes using AI?
+  - Text: is it $1,000 using AI?
+  - Template: `is it possible to make [$X] in [tiny timeframe] using [tool]?`
+  - Visual: Tight face close-up in a dark car; big yellow '$1,000' word pop
+  - Why: Reuses his proven 'is it possible' formula with AI novelty and a money/time constraint (3.7x).
+- **3.28x** · 560k · IG · 2025-12-02 · 55s · vlog_story · [link](https://www.instagram.com/reel/DRwKm9DDeIs/)
+  - Spoken: Is it possible to simultaneously grow two side hustles to $10k a month in 30 days?
+  - Template: `is it possible to simultaneously grow [n] side hustles to [$X/month] in [timeframe]?`
+  - Visual: Talking head in robe, then day-vlog shots with big time+balance overlays ('7:35am $0', '8:56am $0') — running money counter.
+  - Why: Clear money+time stakes with $0 counter on screen; side-hustle demand; 3.3x.
+- **3.22x** · 653k · IG · 2025-12-18 · 60s · talking_head · [link](https://www.instagram.com/reel/DSYELIHjXkA/)
+  - Spoken: 17 days ago, I started a brand new Instagram account to see how fast I could grow it to 10k followers. We got to 20,000 followers after 10 videos.
+  - Text: 17 days ago I started a brand new account
+  - Template: `[n] days ago i started a brand new [platform] account to see how fast i could grow it to [goal]`
+  - Visual: Walks up to grab the camera, then shows phone with a fresh IG profile (2 posts, 1 follower).
+  - Why: 3.2x: fresh-account experiment with proof (empty profile on screen) makes growth claims credible.
+- **2.88x** · 362k · IG · 2024-12-06 · 66s · vlog_story · [link](https://www.instagram.com/reel/DDN3bC5Rv9_/)
+  - Spoken: Is it possible to create a website for our business and make our first dollar off of it in just one hour?
+  - Text: is it possible
+  - Template: `is it possible to [build thing] and make our first dollar from it in just [short time]?`
+  - Why: 2.9x: time-boxed money challenge with a clear win condition.
+- **2.86x** · 489k · IG · 2025-12-03 · 49s · talking_head · [link](https://www.instagram.com/reel/DRzlvrQjV6W/)
+  - Spoken: I started a brand new Instagram channel to see how fast I could make $10,000, and here's how the first two days have gone.
+  - Text: day 1/7 trying to make $10k on a brand new account
+  - Template: `i started a brand new [account] to see how fast i could [money goal], here's how the first [n] days went`
+  - Why: 2.9x: fresh-account money race with a profile screenshot as proof; the 'how fast' framing creates ongoing stakes.
+- **2.77x** · 456k · IG · 2025-01-23 · 78s · talking_head · [link](https://www.instagram.com/reel/DFHnPxqRTDJ/)
+  - Spoken: Is it possible to build a $1 million video game startup with zero coding experience?
+  - Template: `is it possible to build a [$ amount] [startup type] with zero [required skill]?`
+  - Why: Big number + impossible constraint (no coding) is a strong gap; 2.8x.
+- **2.59x** · 232k · IG · 2025-07-29 · 85s · vlog_story · [link](https://www.instagram.com/reel/DMqp0L9hNDy/)
+  - Spoken: Apparently, if you take a nap right after chugging caffeine, it's basically the equivalent of getting eight hours of sleep.
+  - Template: `apparently, if you [weird hack], it's basically the equivalent of [big benefit]`
+  - Why: Weird internet hack tested after an all-nighter — curiosity + real stakes; 2.6x.
+- **2.34x** · 259k · IG · 2026-05-15 · 30s · talking_head · [link](https://www.instagram.com/reel/DYU087gtBX_/)
+  - Spoken: So apparently if you take 30 grams of creatine while sleep deprived, it makes you the most wired and dialed you have ever been.
+  - Text: 30grams creatine
+  - Template: `so apparently if you [extreme hack] while [state], it makes you [extreme result]`
+  - Visual: Red-shirt close-up, pushes a creatine tub toward the lens, big captions '30grams creatine'.
+  - Why: 2.3x: weird specific hack + 'apparently' rumor framing; holding the creatine tub in frame sells it.
+
+## result_proof_howto (38)
+
+- **93.02x** · 1.8M · TT · 2023-01-26 · 51s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7192776077616434474)
+  - Spoken: Here's how I add captions to my TikToks so they go viral every single time.
+  - Text: Here's how I add captions viral
+  - Template: `here's how I [do X] so they [result] every single time`
+  - Visual: Tight talking-head, blue LED strip behind, hand gestures; single-word pop captions 'Here's how I' / 'add captions' / 'viral' (demonstrates the exact technique he's teaching).
+  - Why: 93x outlier: hyper-specific tactical promise ('captions') + absolute result ('viral every single time'), and the pop-captions on screen demo the technique in the first second.
+- **85.47x** · 1.5M · TT · 2026-08-18 · 61s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7675378518120811806)
+  - Spoken: This mindset hack got me 100M views: "Just post and forget it, bro." Post the video and forget you ever posted it.
+  - Text: this mindset hack got me 100M views / just post and forget it bro
+  - Template: `this [mindset hack] got me [huge result]: "[short quotable rule]"`
+  - Visual: Bright window-lit apartment with city view, tank top, holding a red soda can; big two-line title on top + subtitle mid-frame.
+  - Why: Huge proof number + a dead-simple, anxiety-relieving rule that's easy to quote and share (85x).
+- **83.99x** · 1.6M · TT · 2026-05-19 · 132s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7641471684670754079)
+  - Spoken: how to SPEEDRUN 100k followers — I've run 3 TikTok accounts to over 100k followers, the fastest of which I grew from 0 to 100k followers in the span of 30 days, and if there's one piece of advice I'll tell you...
+  - Text: how to SPEEDRUN 100k followers
+  - Template: `how to SPEEDRUN [result] — I've [done it N times], the fastest from 0 to [result] in [timeframe]`
+  - Visual: Three profile-stat cards (50.2M likes etc.) floating above head, tank top, tight selfie, fingers counting '3'
+  - Why: Biggest outlier (84x, 1.6M): gamer verb 'speedrun' + on-screen proof of 3 accounts + 0->100k in 30 days stacks authority and speed in 3s.
+- **49.1x** · 650k · TT · 2023-05-31 · 101s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7239042080562040110)
+  - Spoken: I scripted out every single one of the hooks to my TikTok videos on this account for a month using the same exact hook structure, and during that month I went from 0 to 100,000 followers.
+  - Text: I scripted out every single one of the hooks to my TikTok videos
+  - Template: `I [did X systematically] for [timeframe] and went from 0 to [big result]`
+  - Visual: Outdoor sunny selfie, house + trees behind, small burned-in caption at bottom
+  - Why: Concrete experiment + huge result (0→100k in a month) promises a copyable formula; 49x outlier for the advice account.
+- **38.0x** · 351k · TT · 2023-01-05 · 205s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7184902001141009710)
+  - Spoken: How I grew a new TikTok account to 100K followers in a month (Seriously advanced tips)
+  - Text: How I grew a new TikTok account to 100K followers in a month (Seriously advanced tips)
+  - Template: `how I grew a new [platform] account to [big number] followers in [short timeframe] ([qualifier] tips)`
+  - Visual: Slideshow: white slide with huge black headline, then an analytics screenshot of 'Mino (Sigma Variant)' at 109,595 total followers
+  - Why: Concrete result, short timeframe and screenshot proof on the first slide, plus an 'advanced' promise that gets saves (38x).
+- **19.38x** · 367k · TT · 2023-01-21 · 205s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7191035357226356011)
+  - Spoken: I blew up 3 TikTok accounts in 3 different niches. Here's what I learned.
+  - Text: I blew up 3 TikTok accounts in 3 different niches / Here's what I learned.
+  - Template: `I blew up [N] accounts in [N] different niches. Here's what I learned.`
+  - Visual: Faceless white slide with 3 profile screenshots labelled Comedy (932.6K), Fitness (170.6K), Business (25.9K)
+  - Why: Proof screenshots do the talking; multi-niche success implies a transferable system (19x).
+- **16.69x** · 1.2M · IG · 2024-02-26 · 87s · talking_head · [link](https://www.instagram.com/reel/C3yYeWGPGAZ/)
+  - Spoken: About a year and a half ago, I set two very ambitious goals: to hit $10,000 a month and hit 100,000 followers on Instagram.
+  - Template: `about [time] ago, i set [n] very ambitious goals: [money goal] and [follower goal]`
+  - Visual: Talking head in a library, then a dated screenshot of his handwritten goals note ('October 31, 2022 at 6:48 AM') pops up as receipt.
+  - Why: Dated goal-list receipt makes the 'did he hit it?' gap concrete and credible; 16.7x.
+- **12.79x** · 723k · IG · 2023-12-13 · 78s · talking_head · [link](https://www.instagram.com/reel/C0x64xIMT1F/)
+  - Spoken: I started a business in college 52 days ago with a goal to make $20,000, and after hundreds of hours... we have hit our first 10k.
+  - Text: I started a business in college to make $20,000
+  - Template: `i started a [business] in [life stage] [N] days ago with a goal to make [$X] — we just hit [$Y]`
+  - Visual: Outdoor selfie in a hoodie, then cut to him presenting at a projector screen with a laptop
+  - Why: Concrete money goal + progress proof + 'in college' identity; journey story with numbers (12.8x).
+- **12.41x** · 231k · TT · 2026-08-10 · 112s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7672360960815910174)
+  - Spoken: LEAKING my $200k/month content system (takes me 1hr a week lol) — It is 6:52am and I'm feeling more productive than everybody in the world right now.
+  - Text: LEAKING my $200k/month content system (takes me 1hr a week lol)
+  - Template: `LEAKING my $[X]/month [system] (takes me [tiny time] lol)`
+  - Visual: Early-morning high-rise apartment, tank top, earbuds; big title 'LEAKING my $200k/month content system (takes me 1hr a week lol)' + timestamp caption 'it is 6:52am'.
+  - Why: 'Leaking' secrecy + big money + absurdly small time cost, with a smug 6:52am flex for personality — 12.4x.
+- **11.85x** · 209k · TT · 2023-01-31 · 61s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7194661004146380075)
+  - Spoken: Here's how I got my client to get 13 times more views on TikTok. I shit you not.
+  - Text: how I got to get 13X more views
+  - Template: `here's how i got my client [N]x more [metric]`
+  - Visual: Talking head with client's profile card (1.6M followers, 40.5M likes) popping in, then giant yellow '13X more views'
+  - Why: Client case-study multiplier with on-screen proof; 11.9x.
+- **9.78x** · 184k · TT · 2023-05-21 · 137s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7235671009255361838)
+  - Spoken: Here is literally the only trick that's helped me consistently show up to the gym every single day for a month straight — I'm actually a really lazy person.
+  - Text: Here is literally the [only trick that's helped me] consistently show up to the gym
+  - Template: `here is literally the only trick that's helped me consistently [habit] every single day for [timeframe] (I'm actually really lazy)`
+  - Visual: Talking head in bedroom, then frame 3 cuts to shirtless physique shot in a home gym — proof within 2.5s.
+  - Why: Physique proof cut in the first seconds + self-deprecating 'I'm lazy' relatability (9.8x).
+- **9.3x** · 280k · TT · 2026-08-04 · 101s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7669877821069593886)
+  - Spoken: I copied one of the most famous Hollywood storytelling techniques and it got me 50 million views and 100,000 followers.
+  - Text: I copied famous techniques
+  - Template: `i copied [famous source]'s [technique] and it got me [big result]`
+  - Visual: Close-up holding wired earbud, collage of movie still + his viral thumbnails with view counts (12.4M, 4.6M) floating top
+  - Why: Borrowed authority (Hollywood) + stacked proof numbers on screen; 9.3x.
+- **8.93x** · 109k · TT · 2023-01-11 · 60s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7187434848309579051)
+  - Spoken: I grew my TikTok account from 0 to 100k followers in 1 month. (Here are 3 editing tricks...)
+  - Text: I grew my TikTok account from 0 to 100k followers in 1 month.
+  - Template: `I grew my [platform] account from 0 to [number] followers in [timeframe].`
+  - Visual: Slideshow: bold black headline on white, analytics card showing 109,595 total followers; the next slide reads 'Here are 3 editing tricks'
+  - Why: Same proven result + proof slideshow formula as the 38x post; a 0-to-100k claim is very save-worthy (8.9x).
+- **8.65x** · 113k · TT · 2023-02-27 · 69s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7204628652682693934)
+  - Spoken: Here's exactly how I make the hooks to my TikTok videos so I go viral every single time.
+  - Text: Here's how I
+  - Template: `here's exactly how I [do X] so I [result] every single time`
+  - Visual: Fast 3-cut: smiling close-up 'Here's' -> B-roll writing in notebook at desk 'how I' -> close-up 'so I'; pattern-interrupt cuts each word.
+  - Why: Direct sequel of the 93x captions video with the same 'go viral every single time' promise; fast B-roll cuts on each word — 8.7x.
+- **8.4x** · 215k · TT · 2023-11-28 · 129s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7306271389252767022)
+  - Spoken: Today we're gonna be talking about how to build a cult-like audience on the internet — the strategy that, when I applied it, took me from 0 to [X]k TikTok followers in a month.
+  - Text: how to build a CULT-LIKE [audience]
+  - Template: `how to build a [cult-like audience] — the strategy that took me from 0 to [result] in [timeframe]`
+  - Visual: Talking head in front of a whiteboard covered in a diagram; big red animated 'CULT-LIKE' text slams in by frame 3.
+  - Why: Provocative 'cult' framing + whiteboard 'masterclass' visual signals high value (8.4x).
+- **8.06x** · 111k · TT · 2026-09-09 · 101s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7683351986426744094)
+  - Spoken: This takes 5 minutes but got me 19K followers last month: the most underrated skill in content right now is mastering text hooks.
+  - Text: this takes 5 MINUTES but got me 19K followers last month
+  - Template: `this takes [tiny effort] but got me [result] last month`
+  - Visual: Analytics overlay (1.6M / 3.8M views, 19.3K net followers) above face, neon pink/blue room
+  - Why: Low-effort/high-result contrast plus screenshot proof in frame 1; 8x.
+- **7.85x** · 102k · TT · 2026-04-23 · 118s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7631960365064015135)
+  - Spoken: how building a "cult-like" audience got me 500k followers and $1M online in 3 years — I've mastered the art of going viral and building a personal brand without needing to be good looking, without some crazy talent. I want to give you two tips.
+  - Text: how building a "cult-like" audience got me 500k followers and $1M online in 3 years
+  - Template: `how [method] got me [followers] and [$] in [timeframe] — without needing [common excuse]`
+  - Visual: Extreme low-angle close-up, pinching his face, intimate framing
+  - Why: Big dual result ($1M + 500k) plus 'without being good looking' removes the viewer's excuse (7.9x).
+- **6.77x** · 836k · IG · 2025-02-09 · 60s · talking_head · [link](https://www.instagram.com/reel/DF14xGJsc26/)
+  - Spoken: I figured out how to make content that outperforms full-time content creators with zero effort. Here's the exact method, and I'm gonna prove it to you in the next 60 seconds.
+  - Template: `i figured out how to [result] that outperforms [pros] with zero effort. here's the exact method, and i'll prove it in the next [n] seconds`
+  - Visual: Purple-lit room selfie; by 2.5 s a thumbnail of his 766K-view 'starting your own online business' reel pops in as proof.
+  - Why: Low-effort/high-result promise with a proof thumbnail and a 'prove it in 60 seconds' value contract (6.8x).
+- **6.68x** · 927k · IG · 2025-01-12 · 79s · talking_head · [link](https://www.instagram.com/reel/DEuB5yxRiEj/)
+  - Spoken: It took me longer to hit Platinum in League of Legends than to make $100,000 with my online business. So here's everything you need to know.
+  - Text: $109,790 / to hit / League of Legends
+  - Template: `it took me longer to [nerdy/mundane achievement] than to make [$X] with my [business]`
+  - Visual: Leans into frame at a gaming setup with LoL on the TV, cut to webcam face, cut to the LoL Platinum rank emblem graphic.
+  - Why: Absurd comparison makes $100k feel easy and pulls in a huge gamer audience; 6.7x.
+- **6.38x** · 117k · TT · 2023-01-29 · 56s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7193894677420969259)
+  - Spoken: Here's a script I use to make how-to videos that go viral pretty much every single time — I grew from 0 to 100,000 followers in a month literally just spamming this one script.
+  - Text: the script to make go viral
+  - Template: `here's the [script/template] i use to make [content] go viral every single time`
+  - Visual: Over-shoulder of him writing script from phone notes, then cut to close-up with '314.0K' view counter
+  - Why: Tangible template promise backed by 0-100k proof; 6.4x.
+- **6.13x** · 771k · IG · 2026-01-29 · 79s · talking_head · [link](https://www.instagram.com/reel/DUFDPstDFOR/)
+  - Spoken: Here's how I turned my porn addiction into a money-making addiction that helped me make a million dollars in the past two years.
+  - Text: here's how I turned my [censored] into a ...
+  - Template: `here's how i turned my [vice/addiction] into a [productive] addiction that made me [$X] in the past [timeframe]`
+  - Visual: At a table with an energy drink, then cut to shirtless at a laptop — vice-to-grind contrast in the first second.
+  - Why: Taboo confession + $1M result is an irresistible pairing; 6.1x.
+- **5.68x** · 51k · TT · 2025-10-05 · 190s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7557420711610944798)
+  - Spoken: How I grew my creator business to $100k/month WITHOUT scamming (difficulty: hard) — so in the past 2 years I went from TikTok famous but broke as f*ck...
+  - Text: how i grew my creator business to $100k/month WITHOUT scamming (difficulty: hard)
+  - Template: `how I grew my [business] to $[X]/month WITHOUT [shady shortcut] (difficulty: hard)`
+  - Visual: Warm-lit tank-top selfie, two-line title 'how i grew my creator business to $100k/month WITHOUT scamming (difficulty: hard)' + subtitles.
+  - Why: Money result + 'WITHOUT scamming' differentiator in a scam-heavy niche + playful '(difficulty: hard)' tag — 5.7x.
+- **4.88x** · 97k · TT · 2026-05-25 · 75s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7643682990106758430)
+  - Spoken: This is the full masterclass on how to make strangers obsessed with you in just 10 seconds, a.k.a. how to make viral hooks — I spammed this method to grow 100k followers.
+  - Text: how to make IRRESISTIBLE hooks in just 69 seconds
+  - Template: `this is the full masterclass on how to [outcome] in just [N] seconds (a.k.a. [topic]) — I used it to grow [result]`
+  - Why: 'Masterclass' value framing + view-count B-roll proof (4.9x).
+- **4.79x** · 408k · IG · 2026-08-04 · 101s · talking_head · [link](https://www.instagram.com/reel/Dblt7wSvLTa/)
+  - Spoken: I copied one of the most famous Hollywood storytelling techniques and it got me 50 million views and 100,000 followers.
+  - Text: I copied famous techniques
+  - Template: `i copied one of the most famous [authority source] techniques and it got me [big result]`
+  - Visual: Talking head with wired earbuds; thumbnails of his viral reels with view counts (12.4M, 8.8M, 5.7M, 4.6M) pinned at top.
+  - Why: 4.8x: borrowed authority (Hollywood) + huge proof numbers, with on-screen view-count thumbnails.
+- **4.42x** · 67k · TT · 2024-02-06 · 131s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7332254409218362666)
+  - Spoken: I started daily vlogging on TikTok and Instagram Reels 35 days ago and so far I've grown 26,000 followers on TikTok, 20,000 on Instagram and 3.8 million views, and nobody ever explains...
+  - Text: I started daily vlogging on TikTok
+  - Template: `I started [format] [N] days ago and so far I've grown [result] — and nobody ever explains [how]`
+  - Why: Fresh experiment with analytics screenshot proof; 4.4x.
+- **4.29x** · 53k · TT · 2026-02-26 · 252s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7611075177018903839)
+  - Spoken: The reason why most people stop content creation before they turn it into a full-time income — make millions of dollars from it like our favorite people do — is burnout.
+  - Text: why most creators fall off (how i avoided burnout to make my first $1M as a creator)
+  - Template: `why most [identity] [fail] (how i avoided [pain] to make my first [$ result])`
+  - Visual: Seated selfie in bedroom, nose strip on face, two-line title (why most creators fall off + $1M subhead) pinned on top.
+  - Why: Negative 'why most fall off' + $1M proof subhead in one title; 4.3x despite a 4-min runtime.
+- **4.08x** · 54k · TT · 2025-03-19 · 69s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7483410356623183147)
+  - Spoken: I have used this blueprint to blow up 3 TikTok accounts and 1 Instagram account, so just give me 60 seconds — I'm going to literally show you how to copy and paste this blueprint so you can post your first viral video tomorrow.
+  - Text: THE GET YOUR FIRST VIRAL VIDEO BLUEPRINT: 1. Steal Like an Artist 2. Flow-Optimized Filming 3. Minimum Viable Editing
+  - Template: `i have used this [blueprint] to [result x N] — give me 60 seconds and i'll show you how to [outcome] by tomorrow`
+  - Visual: Holds up a hand-written notebook page 'Get Your First Viral Video Blueprint' with 3 steps, then cuts to it beside 3 account screenshots (146K/289K/915K followers).
+  - Why: Physical prop + proof screenshots + 60-second promise make the payoff tangible; 4.1x.
+- **3.66x** · 314k · IG · 2024-09-24 · 67s · talking_head · [link](https://www.instagram.com/reel/DARy7FoxXSv/)
+  - Spoken: This year, I officially cracked the Instagram algorithm. I've grown 150,000 followers on Instagram...
+  - Text: This year I officially [cracked the] Instagram [algorithm]
+  - Template: `this year i officially cracked the [platform] algorithm — i've grown [N] followers`
+  - Visual: Walks toward camera down a hotel/apartment hallway with selfie arm, huge single-word captions ('Instagram')
+  - Why: Platform-specific 'cracked the algorithm' claim backed by a big follower number, posted on that platform → 3.7x.
+- **3.31x** · 44k · TT · 2026-09-08 · 56s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7683028138162408735)
+  - Spoken: This mindset hack got me 100M views — You ever scroll and watch someone clearly trying really hard to make content...
+  - Text: this mindset hack got me 100M views
+  - Template: `this [mindset hack] got me [huge number] views`
+  - Why: Huge personal number plus a curiosity 'hack' and a relatable observation (3.3x).
+- **3.3x** · 56k · TT · 2023-02-08 · 76s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7197461548560895274)
+  - Spoken: Here's exactly how I script my TikTok videos so I go viral every single time, trust me. It's actually really f***ing simple.
+  - Text: [Here's] exactly [how I] script my [TikToks]
+  - Template: `Here's exactly how I [process] so I [result] every single time — it's actually really simple`
+  - Why: Bold 'every single time' claim + simplicity promise (3.3x).
+- **3.21x** · 46k · TT · 2026-03-04 · 153s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7613279882046426399)
+  - Spoken: "Scrolling like a creator" got me $1M and 1M+ followers — If you want to succeed in content, you need to learn how to scroll effectively, and it's something no one else will tell you.
+  - Text: "Scrolling like a creator" got me $1M and 1M+ followers
+  - Template: `"[named habit]" got me [$] and [followers] — it's something no one else will tell you`
+  - Why: Reframes a guilty habit (scrolling) as the secret behind big numbers (3.2x).
+- **2.9x** · 55k · TT · 2026-05-19 · 142s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7641382371161328927)
+  - Spoken: The morning routine that got me to $100k a month
+  - Text: the morning routine that got me to $100k a month
+  - Template: `the [routine] that got me to [$ result] a month`
+  - Visual: Shirtless at desk, Whop revenue chart ($1.06M/12mo) + physique selfie overlays above head
+  - Why: Money proof + physique collage stacks aspiration signals; 2.9x.
+- **2.74x** · 394k · IG · 2025-11-05 · 89s · talking_head · [link](https://www.instagram.com/reel/DQoFLTCkZ0y/)
+  - Spoken: POV: you reused the same hook and got 24M views — 'Is it possible to... Is it possible to... Is it possible to...'
+  - Text: POV: you reused the same hook and got 24M views
+  - Template: `POV: you reused the same [hook] and got [huge result]`
+  - Why: Meta proof (24M views from one recycled hook) + repetition montage; teaches a copyable tactic (2.7x).
+- **2.52x** · 234k · IG · 2025-06-20 · 60s · talking_head · [link](https://www.instagram.com/reel/DLDOMUARnDe/)
+  - Spoken: I figured out how to make content that outperforms full-time content creators with zero effort. Here's the exact method, and I'm gonna prove it to you in the next 60 seconds.
+  - Text: I figured out content that outperforms full-time content creators
+  - Template: `i figured out how to [outcome] that outperforms [pros] with zero effort — here's the exact method, proven in 60 seconds`
+  - Why: Big claim + 'exact method' + proof promise inside 60 s (2.5x).
+- **2.37x** · 72k · TT · 2026-07-27 · 120s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7667090853608934686)
+  - Spoken: So this single style of content that I learned from Shelby Sapp and HigherUpWellness has helped me gain 9,000 followers, and I'm only spending about 3 hours per week on these videos.
+  - Text: viral yap framework — made me $180k this month • got me 9k followers • 30min/day
+  - Template: `this single style of content has helped me gain [N followers] and I'm only spending [small time] per week`
+  - Why: Stacked proof (money + followers + low time) works, but long 2-min runtime capped it: 2.4x.
+- **2.33x** · 206k · IG · 2026-04-24 · 76s · talking_head · [link](https://www.instagram.com/reel/DXhM3fsmIP3/)
+  - Spoken: Pro editing tip inside TikTok: you're gonna press these four buttons and it's gonna instantly double your views. I promise you. I've grown all these accounts because of this.
+  - Text: this ONE editing hack got me 1.8M followers
+  - Template: `this ONE [hack] got me [big result] — press these [N] buttons and it's gonna instantly [outcome]`
+  - Visual: Holding phone to camera showing the TikTok editor, finger counting 'four buttons'.
+  - Why: Low-effort tactic (4 buttons) + huge result; 2.3x.
+- **2.11x** · 61k · TT · 2026-07-26 · 121s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7666740934314380574)
+  - Spoken: This is everything I use Claude for in my business to make $185K a month (but it gets increasingly more niche): 1. AI clone 2. data tracking 3. webinar funnels
+  - Text: everything i use claude for to make $185k/month (but it gets increasingly more niche)
+  - Template: `everything I use [tool] for to make [$X/month] (but it gets increasingly more niche) + chapter list`
+  - Visual: Close selfie in dim room, bold title + timestamped chapter list (AI clone 0:15 / data tracking 0:35 / webinar funnels 0:56).
+  - Why: Hot AI tool + income proof + visible chapters (2.1x); long 2-min runtime capped upside.
+- **2.03x** · 255k · IG · 2024-12-12 · 82s · talking_head · [link](https://www.instagram.com/reel/DDdD4Bcx0db/)
+  - Spoken: I scripted out every single one of the hooks to my TikTok videos for a month using the same exact hook structure, and during that month I went from 0-100,000...
+  - Text: I scripted out every single one of the hooks to my TikTok videos
+  - Template: `i [did tactic] for [timeframe] using the same exact [structure] and went from 0 to [result]`
+  - Why: Specific replicable tactic + 0→100k proof (2x).
+
+## howto_outcome (24)
+
+- **163.64x** · 1.8M · TT · 2022-09-30 · 32s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7148941543477382443)
+  - Spoken: Here's how to actually blow up on TikTok. Focus on quality, not quantity.
+  - Text: Here's how to blow up on TikTok.
+  - Template: `here's how to actually [big outcome] on [platform]. focus on [counterintuitive principle]`
+  - Visual: Dark room, face lit by phone with like/follow notifications popping, then hard cut to him hand-drawing a giant TikTok logo
+  - Why: Huge-desire promise + contrarian 'quality not quantity' vs. the 'post 6x/day' advice, with a striking cinematic opener: 164x (early-account breakout).
+- **54.8x** · 1.5M · IG · 2022-11-09 · 45s · voiceover_broll · [link](https://www.instagram.com/reel/CkuX0hejECQ/)
+  - Spoken: Here's how to get out of a slump. Maybe you're a little demotivated and you got a lot of sh*t to do, but you just can't seem to do it and you keep procrastinating.
+  - Text: Here's how to get out of a slump
+  - Template: `here's how to get out of a [negative state]. maybe you're [symptom] and [symptom], but you just can't [action]`
+  - Visual: Acts out the slump: lying in bed scrolling phone under LED strip, then gets up — viewer sees themselves
+  - Why: Universal pain named in 3 words + acted-out relatable bed-scrolling visual; tiny 2022 baseline makes it a 55x outlier.
+- **28.46x** · 311k · TT · 2022-10-06 · 32s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7151110232641391914)
+  - Spoken: Here's how to NOT get shadowbanned on TikTok: stop deleting your videos. That is literally the only thing that shadowbans your account.
+  - Text: Here's how to / NOT / [get shadowbanned] on TikTok
+  - Template: `here's how to NOT [feared outcome] on [platform]: stop [common action].`
+  - Visual: Word-by-word big white text ('Here's how to' / 'NOT' / 'on TikTok') over a smiling talking head, teal LED backlight, hoodie.
+  - Why: Hits a universal creator fear and gives a single surprising, actionable answer in the first sentence (28x).
+- **16.44x** · 697k · IG · 2023-10-11 · 66s · talking_head · [link](https://www.instagram.com/reel/CyQtqrouweQ/)
+  - Spoken: Biggest hack for why I can actually wake up and not need 10 different alarms: drink water immediately after waking up.
+  - Template: `biggest hack for [desired outcome] without [pain]: [simple tip]`
+  - Visual: Groggy shirtless extreme close-up lying in bed with pillow - setting matches the wake-up topic.
+  - Why: Delivers the whole tip in the first sentence, with a bed visual that matches it; zero friction (16x).
+- **16.18x** · 267k · TT · 2026-04-16 · 47s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7629118690780286239)
+  - Spoken: How to go viral but we both have brain damage — Here's how to go viral. Hashtags: not important. Posting times: not important.
+  - Text: how to go viral but we both have brain damage
+  - Template: `how to [desired outcome] but we both have brain damage`
+  - Visual: Dark zip hoodie at a kitchen table, notebook of sketches, finger-pointing at the lens; meme-y headline with a brain emoji
+  - Why: Self-aware dumbed-down framing on the evergreen 'how to go viral', then rapid myth dismissals; funny and useful (16x).
+- **10.65x** · 874k · IG · 2024-10-21 · 45s · voiceover_broll · [link](https://www.instagram.com/reel/DBW4ya8RmGj/)
+  - Spoken: Here's how to get out of a slump. Maybe you're a little demotivated and you got a lot of shit to do, but you just can't seem to do it and you keep procrastinating.
+  - Template: `here's how to get out of a [bad state]. maybe you're [symptom] and [symptom]...`
+  - Visual: B-roll of him lying in bed scrolling under LED strip, then getting up; big white captions, 'demotivated' in yellow.
+  - Why: Simple universal outcome + relatable symptom list, visual mirrors the viewer in bed; 10.7x.
+- **9.73x** · 614k · IG · 2022-11-18 · 48s · talking_head · [link](https://www.instagram.com/reel/ClFNI7Sp_FY/)
+  - Spoken: Here's how to actually focus and get your work done 5 times as quickly. Since this is TikTok, your attention span is probably dog shit, so try to make it through.
+  - Template: `here's how to actually [outcome] [N] times as quickly. since this is [platform], your [weakness] is probably [insult], so try to make it through`
+  - Visual: Shirtless close-up in dark room; '5 TIMES' in caps on frame 3.
+  - Why: Quantified outcome + playful insult that dares viewer to stay; 9.7x in 2022.
+- **9.16x** · 120k · TT · 2026-04-24 · 76s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7632059794471259422)
+  - Spoken: How to 3x your views in 76 seconds (NOT CLICKBAIT) — pro editing tip: inside TikTok you're gonna press these four buttons and it's gonna instantly 2x your views.
+  - Text: how to 3x your views in 76 seconds (NOT CLICKBAIT)
+  - Template: `how to [Nx your result] in [video length] seconds (NOT CLICKBAIT)`
+  - Visual: Tank top, holds phone up to camera showing the TikTok editor and points at it — tactile 'press these' demo.
+  - Why: Concrete multiplier + exact-length promise + phone-in-hand demo makes it feel instantly actionable (9.2x).
+- **8.72x** · 499k · IG · 2022-11-30 · 21s · talking_head · [link](https://www.instagram.com/reel/ClkymKWMkxf/)
+  - Spoken: Here's how to stop waking up in the morning, looking in the mirror and hating what you see. Stop using your phone for the first hour of the day.
+  - Text: Here's how to stop waking up in the morning, hating what you see.
+  - Template: `here's how to stop [painful daily moment]`
+  - Visual: Low-angle shot standing in kitchen, stern blank stare, big centered phrase captions.
+  - Why: Sharp emotional pain (self-loathing in the mirror) + instant fix in sentence two, in a 21 s video (8.7x).
+- **8.14x** · 77k · TT · 2022-12-13 · 75s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7176318060293492014)
+  - Spoken: How do you actually convert views to money on TikTok?
+  - Text: How to convert TIKTOK VIEWS ➡️ 💰💰💰
+  - Template: `how to convert [attention metric] ➡️ 💰`
+  - Visual: Hoodie selfie with red title-card text, by frame 3 a Stripe 'Gross volume $1,200' screenshot pops in
+  - Why: Monetization promise + immediate Stripe proof screenshot: 8x.
+- **7.37x** · 54k · TT · 2025-10-04 · 99s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7557132818388700447)
+  - Spoken: How to tell if a course is a scam — I think the biggest sign a course seller is an actual scammer... and this is coming from somebody who's made around $600,000 from my course this year.
+  - Text: how to tell if a course is a scam
+  - Template: `how to tell if a [thing people buy] is a scam (from someone who sells [thing])`
+  - Visual: Street selfie with the Empire State Building behind; clean white headline 'how to tell if a course is a scam'
+  - Why: An insider exposing his own industry, with a big money credential in the first sentence; a wide audience fears scams (7.4x).
+- **6.47x** · 123k · TT · 2026-05-25 · 122s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7643679179107519774)
+  - Spoken: how to NEVER run out of viral video ideas — How to never run out of ideas for your social media content, as a person who's been posting consistently for the past six years, I've grown four accounts across TikTok and Instagram...
+  - Text: how to NEVER run out of viral video ideas
+  - Template: `how to NEVER [universal pain] — as someone who's [credential: years/accounts]`
+  - Visual: Tank top at desk writing in a notebook with pen, word captions
+  - Why: Universal creator pain + quick credential (6.5x).
+- **5.8x** · 165k · TT · 2023-10-23 · 176s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7292858826691235114)
+  - Spoken: Here's exactly how you're gonna make your first viral TikTok video — coming from a guy who's literally done it many times across multiple accounts and niches.
+  - Text: The Viral Video Sauce (send to clients)
+  - Template: `Here's exactly how you're gonna [first big outcome] (from someone who's done it [N] times)`
+  - Why: On-screen checklist doubles as a save-able resource; strong 5.8x despite 176 s.
+- **5.16x** · 295k · IG · 2022-12-04 · 21s · talking_head · [link](https://www.instagram.com/reel/CluwfP9jtIO/)
+  - Spoken: Here's how to actually make changes in your life — and learn why those changes are actually gonna help you.
+  - Text: Here's how to / make changes / those changes
+  - Template: `here's how to actually [make changes] in your life`
+  - Visual: Opens stretching awake in bed, cut to close face-to-camera.
+  - Why: Short 21s early-era self-improvement promise; 5x vs a tiny 2022 baseline.
+- **5.1x** · 292k · IG · 2022-12-02 · 20s · talking_head · [link](https://www.instagram.com/reel/ClpQ9G4pgwo/)
+  - Spoken: Here's how to break your shitty habits. Clean your environment.
+  - Text: Here's how to break your shitty habits
+  - Template: `here's how to [break bad thing]. [one-line answer].`
+  - Visual: Wide shot in a blue room, him walking with a mic, gym equipment behind
+  - Why: Answer delivered in sentence 2 = high value per second; early-era 20 s tip (5.1x).
+- **4.58x** · 50k · TT · 2022-10-24 · 73s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7157796911012138286)
+  - Spoken: If you want to go viral on TikTok, I've always noticed you have to balance these two weird things in your video. And it won't make sense when I tell it to you right now, but just hear me out.
+  - Text: if you wanna go viral on Tiktok, you have to balance
+  - Template: `if you want to [outcome], you have to balance these two weird things — it won't make sense yet, but hear me out`
+  - Visual: Plain selfie close-up with tiny centered captions, LED strip in background, hand gesture on 'balance'.
+  - Why: Open loop ('two weird things… won't make sense yet') forces the watch; 4.6x.
+- **4.04x** · 83k · TT · 2026-06-02 · 130s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7646795486946446623)
+  - Spoken: Speedrun 10K followers: 90-day step-by-step tutorial
+  - Text: speedrun 10K followers — 90-day STEP BY STEP tutorial
+  - Template: `speedrun [N] followers: [timeframe] step-by-step tutorial`
+  - Visual: Desk shot writing in notebook with pen, earbuds mic, bold title + subtitle on top
+  - Why: Gamified 'speedrun' + step-by-step promise = save-bait tutorial; 4x.
+- **3.54x** · 465k · IG · 2025-10-13 · 78s · talking_head · [link](https://www.instagram.com/reel/DPv-SiPkfpW/)
+  - Spoken: Here's how to get out of a slump. This is not clickbait, this works 100% of the time.
+  - Text: here's how to get out of a slump / this works 100%
+  - Template: `here's how to get out of [bad state]. this is not clickbait, this works 100% of the time`
+  - Visual: Night café table with candle and coffee, him pouring a drink while talking.
+  - Why: 3.5x: universal pain ('slump') + guarantee ('100% of the time') in a cozy aesthetic setting.
+- **3.26x** · 42k · TT · 2023-02-26 · 64s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7204250763005054254)
+  - Spoken: Here's everything you need to know about getting your first 100,000 followers on TikTok — done across two different niches.
+  - Text: FULL Guide to getting your first 100k followers on TikTok
+  - Template: `FULL guide to getting your first [big milestone] on [platform]`
+  - Why: Comprehensive-guide promise = save value; 3.3x.
+- **2.94x** · 80k · TT · 2026-07-22 · 108s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7665231396922838303)
+  - Spoken: This is how to become a successful creator, coming from somebody who's grown five accounts in five different niches. Anybody who tells you that you need to become the niche are f***ing lying to you.
+  - Text: how to ACTUALLY make it full-time as a creator
+  - Template: `how to ACTUALLY [aspirational outcome] (from someone who's [proof])`
+  - Why: 'ACTUALLY' + authority (5 accounts) + immediate contrarian jab; 2.9x.
+- **2.81x** · 85k · TT · 2026-07-27 · 69s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7667209538747075871)
+  - Spoken: How to ACTUALLY make viral yapping videos — Everybody's missing the point about yapping content.
+  - Text: how to ACTUALLY make viral yapping videos
+  - Template: `how to ACTUALLY make viral [format] videos — everybody's missing the point about [format]`
+  - Visual: Airplane window seat, holding wired earbuds; view-count badges (2.7M, 660.3K, 170.6K) stacked above the headline
+  - Why: A trending format ('yapping') plus 'everybody's missing the point' plus view-count proof on screen (2.8x).
+- **2.55x** · 57k · TT · 2026-07-23 · 84s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7665607325004139807)
+  - Spoken: This is how to write a hook that is so irresistible for your viewer to skip, explained in a way that a 5-year-old can understand.
+  - Text: how to make 1M+ view hooks explained to a 5 year-old
+  - Template: `how to [skill] explained to a 5 year-old`
+  - Why: ELI5 framing + view-count proof thumbnails; 2.6x.
+- **2.12x** · 55k · TT · 2026-06-02 · 61s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7646787247009828127)
+  - Spoken: How to be 10x more creative in 61 seconds (neuroscience) — neuroscience shows you are literally the least creative when you're trying to force ideas.
+  - Text: how to be 10x more creative in 61 seconds (neuroscience)
+  - Template: `how to be [N]x more [trait] in [video length] seconds ([science])`
+  - Why: Multiplier + science authority + counterintuitive claim (2.1x).
+- **2.08x** · 358k · IG · 2026-01-14 · 47s · talking_head · [link](https://www.instagram.com/reel/DTf1lkeD0TE/)
+  - Spoken: I figured out a way to gain muscle working out just five minutes a day without a gym membership.
+  - Template: `i figured out a way to [outcome] [doing tiny effort] [frequency] without [usual requirement]`
+  - Why: Low-effort shortcut promise with a specific constraint; solid 2.1x.
+
+## contrarian_hot_take (23)
+
+- **73.87x** · 1.7M · IG · 2022-11-06 · 46s · talking_head · [link](https://www.instagram.com/reel/Ckl4aWepvdO/)
+  - Spoken: Here's why No Nut November is actually GOOD for you.
+  - Text: Here's why No Nut November GOOD for you.
+  - Template: `here's why [taboo trend] is actually GOOD for you`
+  - Visual: Talking at desk with a tissue box shoved into frame as a sight gag, then cut to an empty trash can.
+  - Why: 74x: peak-timing seasonal taboo topic + cheeky tissue-box prop; pure shareability during November.
+- **26.82x** · 129k · TT · 2025-06-24 · 90s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7519315201104022814)
+  - Spoken: I don't care if I get cancelled for saying this, but the reason why your videos have zero algo pull is because you are way too straight, bro.
+  - Text: I don't care for saying this ... zero algo pull
+  - Template: `I don't care if I get cancelled for saying this, but the reason your [thing] has [pain] is because you are way too [unexpected trait]`
+  - Visual: Tight selfie in an olive collared shirt, apartment with an arched doorway; small word-by-word captions
+  - Why: Pre-emptive 'cancelled' stakes, a named pain (zero algo pull) and a shocking cause, backed by '200k followers this year' (27x).
+- **24.97x** · 364k · TT · 2024-06-21 · 51s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7382807836197145886)
+  - Spoken: The reason your account hasn't blown up yet is because you care way too much about views.
+  - Text: reason / blown up / way too much
+  - Template: `The reason your [account/goal] hasn't [result] yet is because you care way too much about [obvious metric]`
+  - Visual: Walking-and-talking street selfie in Midtown NYC, mic in hand, big single-word kinetic captions
+  - Why: Diagnoses the viewer's exact frustration with a counter-intuitive cause; dynamic street energy; 25x.
+- **20.56x** · 2.1M · IG · 2024-08-20 · 64s · talking_head · [link](https://www.instagram.com/reel/C-4LxcRsC71/)
+  - Spoken: I don't know who needs to hear this, but the idea that you can change your life by simply working harder is bullsh*t.
+  - Text: I don't know who needs to hear this, but the idea that you can change your life by simply working harder is bullshit
+  - Template: `i don't know who needs to hear this, but the idea that [common belief] is bullsh*t`
+  - Visual: Selfie talking while driving, then cut to working on a laptop in a grand lounge; captions word by word
+  - Why: Attacks a near-universal belief (just work harder) with a swear-word verdict; broad self-improvement appeal far beyond creators (20x).
+- **18.81x** · 1.2M · IG · 2024-02-06 · 60s · talking_head · [link](https://www.instagram.com/reel/C2_QozMNL-d/)
+  - Spoken: It feels like once I stopped focusing on the money, that's when we actually started making money.
+  - Text: It feels like once I stopped focusing on the money
+  - Template: `it feels like once i stopped [chasing X], that's when [X actually happened]`
+  - Visual: Selfie in a campus building, then gym bench press, then laptop at a conference table
+  - Why: Paradox insight in the first line hides a series episode ('day 36') behind it; leading with the lesson instead of 'day X' made it 18.8x vs his series flops.
+- **15.74x** · 2.6M · IG · 2025-01-24 · 74s · talking_head · [link](https://www.instagram.com/reel/DFLW_J7xFn6/)
+  - Spoken: I don't know who needs to hear this, but uninstalling video games is not going to make you successful.
+  - Template: `i don't know who needs to hear this, but [common self-improvement advice] is not going to make you [goal]`
+  - Visual: Dark bedroom, moody colored light, tank top, laptop on stand, close selfie framing; bold centered word captions.
+  - Why: Defends a guilty pleasure the self-improvement crowd attacks — gamers feel validated, grindset people argue; 15.7x.
+- **13.03x** · 248k · TT · 2026-05-19 · 46s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7641316021843922207)
+  - Spoken: There are fully grown men out there posting videos of themselves talking about "here's how to", "day in my life" and they get 900 views.
+  - Text: "grown man posting to 900 views 😭💀
+  - Template: `there are fully grown [identity] out there [doing X] and they get [embarrassing number]`
+  - Visual: Extreme close-up of face, shirtless, staring at camera with one-line meme caption + crying emojis — roast energy.
+  - Why: Roast-style call-out that the target audience feels personally attacked by (900 views) — comment-bait; 13x.
+- **12.51x** · 278k · TT · 2023-10-16 · 130s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7290594752431459627)
+  - Spoken: Lessons from a $300k/month TikTok genius: you know who makes the most money off TikTok videos? The people who put the least effort into their videos.
+  - Text: lessons from a $300k/month TikTok genius
+  - Template: `lessons from a $[X]/month [platform] genius: you know who makes the most money off [X]? the people who [counterintuitive]`
+  - Visual: Outdoor walking selfie by brick building, pink hoodie; top title 'lessons from a $300k/month TikTok genius' plus lower caption question.
+  - Why: Borrowed authority ($300k/month) + question + counterintuitive answer ('least effort') stacked in 3s — 12.5x.
+- **11.19x** · 185k · TT · 2026-05-12 · 33s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7638782308006366495)
+  - Spoken: Every successful founder is a bad person. So I just made my first million dollars selling a course. I charge thousands to teach strangers how to become influencers, and I fucking hate telling people this.
+  - Text: Every successful founder is a bad person.
+  - Template: `every successful [role] is a bad person. so I just [made big result]...`
+  - Visual: Low-angle selfie under trees and blue sky, tank top, casual outdoor walk, text hook center
+  - Why: Self-incriminating provocation + $1M result invites both outrage and curiosity (ironic 'larp'): 11x.
+- **10.01x** · 140k · TT · 2024-06-20 · 78s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7382393374709386527)
+  - Spoken: If your plan is to lock in and grind this summer, you have to stop moving in silence.
+  - Text: "Moving in silence" will NOT make you successful
+  - Template: `"[popular advice]" will NOT make you [desired outcome]`
+  - Visual: Fast cuts: selfie with the contrarian title pinned top, B-roll of him at a gym curl machine on 'lock in', back to talking head — motion in the first second.
+  - Why: Flips a popular self-improvement mantra at the exact seasonal moment ('this summer') + gym B-roll; 10x.
+- **8.86x** · 572k · IG · 2024-03-07 · 77s · talking_head · [link](https://www.instagram.com/reel/C4NK20Lu8Xa/)
+  - Spoken: I stopped doing rigid self-improvement, and I made way more progress after I stopped.
+  - Text: I stopped rigid self-improvement and I made more progress
+  - Template: `i stopped doing [thing everyone says to do] and i made way more progress after i stopped`
+  - Visual: Talking head in LED-lit room, quick cut to him in the gym in a tank on a bench, back to camera.
+  - Why: 8.9x: flips the self-improvement dogma his audience lives by, with personal-result framing.
+- **8.12x** · 933k · IG · 2025-05-14 · 81s · talking_head · [link](https://www.instagram.com/reel/DJmzckfRUZ8/)
+  - Spoken: I don't know who needs to hear this, but your videos aren't getting views because your storytelling sucks.
+  - Template: `i don't know who needs to hear this, but your [thing] isn't [working] because your [skill] sucks`
+  - Visual: Tight close-up in a black hoodie, purple ambient light, big white word-by-word captions.
+  - Why: 8x: blunt diagnosis of the viewer's pain (low views) with a named culprit, then proof he used one template for 15 months.
+- **6.87x** · 90k · TT · 2026-03-06 · 113s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7613879788863786271)
+  - Spoken: "Faceless" content will never make you rich. The most common question I get whenever I tell people, "Dude, start posting content with your face..."
+  - Text: "FACELESS" CONTENT WILL NEVER MAKE YOU RICH.
+  - Template: `"[popular method]" will never make you rich`
+  - Visual: Hoodie up, tight selfie, bold all-caps contrarian headline pinned top
+  - Why: Attacks a hyped trend (faceless) with a money stake; 6.9x.
+- **6.08x** · 575k · IG · 2024-06-21 · 51s · talking_head · [link](https://www.instagram.com/reel/C8dq9bVs02y/)
+  - Spoken: The reason your account hasn't blown up yet is because you care way too much about views.
+  - Text: reason / blown up / way too much
+  - Template: `the reason your [account] hasn't [blown up] yet is because you care way too much about [the obvious metric]`
+  - Visual: Walking selfie-stick shot on a busy NYC street, kinetic captions on key words.
+  - Why: Names the creator's exact anxiety, then flips the cause; motion + city backdrop; 6x.
+- **5.5x** · 103k · TT · 2023-05-09 · 72s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7230999350892072234)
+  - Spoken: The age of hyper-edited content on TikTok is dead. Less is more now on TikTok.
+  - Text: The age of hyper-edited content on TikTok is dead.
+  - Template: `the age of [popular tactic] on [platform] is dead. [opposite] is more now`
+  - Why: 'X is dead' declaration challenges what creators were doing: 5.5x.
+- **4.81x** · 123k · TT · 2023-12-03 · 85s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7308201841542679854)
+  - Spoken: If you were hideously addicted to video games like League of Legends, Fortnite, Valorant growing up, it's a good sign that you're going to be successful.
+  - Text: if you were hideously addicted
+  - Template: `if you were [stereotyped 'bad' habit] growing up, it's a good sign you're going to be [successful]`
+  - Why: Validates a guilty identity (gamers) with a flattering contrarian reframe: 4.8x.
+- **4.27x** · 703k · IG · 2025-01-26 · 83s · talking_head · [link](https://www.instagram.com/reel/DFR3SJUM_sU/)
+  - Spoken: The fastest way to progress in life is to simply become a one-trick pony. Four years ago, I was your average bummy high school student.
+  - Template: `the fastest way to [outcome] is to simply [counterintuitive advice]. [X] years ago, I was [low starting point]`
+  - Visual: Seated at desk by window at sunset, laptop, 'Renewal College Fellowship' hoodie, calm framing, word captions.
+  - Why: Quotable counterintuitive rule + humble-origin proof in sentence 2; 4.3x.
+- **3.94x** · 42k · TT · 2022-11-04 · 58s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7161842896092663086)
+  - Spoken: The only thing that matters in getting views on TikTok is keeping people watching your video as long as possible.
+  - Text: How to go VIRAL on TikTok / The ONLY thing in getting views
+  - Template: `the only thing that matters in [outcome] is [single factor]`
+  - Why: Single-lever simplification ('the ONLY thing') makes a complex topic feel solvable — 3.9x.
+- **3.59x** · 421k · IG · 2025-06-25 · 90s · talking_head · [link](https://www.instagram.com/reel/DLQ7kabJQTx/)
+  - Spoken: I don't care if I get cancelled for saying this, but the reason your videos have zero algo pull is because you are way too straight, bro.
+  - Text: I don't care ... for saying this ... zero algo pull
+  - Template: `i don't care if i get cancelled for saying this, but the reason your [videos] have [problem] is because you're way too [unexpected trait]`
+  - Visual: Face close-up in car, slight low angle, kinetic captions.
+  - Why: Cancel-bait framing + absurd diagnosis ('zestmaxing') sparks comments; 3.6x.
+- **3.58x** · 93k · TT · 2023-10-17 · 117s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7290960277548371242)
+  - Spoken: You are literally staring at the EASIEST million-dollar opportunity in history. You have to understand that it's literally never been easier to get rich being an idiot teenager.
+  - Text: You are literally staring at the EASIEST million-dollar opportunity in history
+  - Template: `You are literally staring at the EASIEST [$] opportunity in history — it's never been easier to [outcome] being [unlikely identity]`
+  - Why: Superlative opportunity claim + 'idiot teenager' provocation (3.6x).
+- **3.19x** · 287k · IG · 2024-05-10 · 96s · talking_head · [link](https://www.instagram.com/reel/C6xQr5dI6Vo/)
+  - Spoken: I don't think pressure creates diamonds. It creates quitters.
+  - Text: I don't think pressure creates diamonds. It creates quitters.
+  - Template: `i don't think [popular saying]. it [blunt reversal].`
+  - Why: Flips a cliché into a quotable one-liner before revealing it's a 'Day 129' series post → 3.2x vs series median ~0.7x.
+- **2.62x** · 65k · TT · 2023-12-06 · 85s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7309193058405338411)
+  - Spoken: I've never met a single successful creator on TikTok who's making over $10,000 a month, over 100,000 followers, who's watching this…
+  - Text: Rich TikTokers vs Poor TikTokers
+  - Template: `rich [identity] vs poor [identity] — i've never met a single successful [identity] who [does X]`
+  - Why: Rich vs poor framing + 'you're watching this so you're not successful' sting; 2.6x.
+- **2.61x** · 246k · IG · 2024-06-20 · 78s · talking_head · [link](https://www.instagram.com/reel/C8bMmwGstAU/)
+  - Spoken: If your plan is to lock in and grind this summer, you have to stop moving in silence.
+  - Template: `if your plan is to [trendy goal], you have to stop [popular advice]`
+  - Visual: Blue-lit room close-up, then gym b-roll (preacher curl) with big 'lock in' text.
+  - Why: Flips popular 'move in silence' advice using seasonal trending keywords ('lock in', 'this summer') (2.6x).
+
+## story_confession (19)
+
+- **169.31x** · 3.2M · TT · 2026-06-13 · 81s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7650700853623409950)
+  - Spoken: I can't afford to pay rent for me and my girlfriend, so instead of asking her to split the rent, I started to just resent her for it.
+  - Text: I can't afford to pay rent so instead of...
+  - Template: `I can't afford [basic need], so instead of [healthy action], I started [toxic reaction]`
+  - Visual: Tight face close-up with wired earbuds mic, NYC skyline window behind; word-by-word captions on face
+  - Why: Brutally honest, slightly villain-coded confession about money + relationship triggers judgment/comments; the account's biggest outlier (3.2M, 169x).
+- **142.18x** · 1.5M · TT · 2023-06-12 · 68s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7243501027083783467)
+  - Spoken: I'm processing the realization that I've been taking my life too seriously for the past year.
+  - Text: I'm processing the realization that I've been taking my life too seriously
+  - Template: `i'm processing the realization that i've been [doing X wrong] for the past [time]`
+  - Visual: Sitting cross-legged on the floor of a busy airport terminal with people walking past — odd, cinematic pattern interrupt; small caption text.
+  - Why: Relatable existential confession + strange public setting (sitting on airport floor) stopped the scroll; 142x median, 1.5M — broke out of the creator-advice bubble.
+- **116.59x** · 1.3M · TT · 2023-06-20 · 114s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7246479050158509355)
+  - Spoken: I regret improving myself — or more specifically, I regret the way I learned about it. Let me explain.
+  - Text: I regret improving myself, or more specifically,
+  - Template: `i regret [universally 'good' thing] — or more specifically, the way i [did it]`
+  - Visual: Full-body shirtless shot showing visible abs/transformation, big word-by-word captions center
+  - Why: Contrarian confession against self-improvement culture + physique visual as proof; 116x (1.3M).
+- **23.47x** · 325k · TT · 2026-09-03 · 66s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7680996585978858783)
+  - Spoken: POV: you chased money for 13 months straight — I feel so f***ing alone, man. I dropped out of college when I was 20 to chase one number on a screen...
+  - Text: POV: you chased money for 13 months straight
+  - Template: `POV: you chased [goal] for [timeframe] straight — I feel so [raw emotion]. I [sacrifice] to chase [goal]`
+  - Visual: Purple-lit night selfie with earbuds, raw handheld; cut to dim red-lit room
+  - Why: Raw loneliness confession contrasts with the money-success genre; emotion lands in the first word (23x).
+- **13.25x** · 984k · IG · 2026-06-13 · 81s · talking_head · [link](https://www.instagram.com/reel/DZh2mXzsF_n/)
+  - Spoken: I can't afford to pay rent for me and my girlfriend, so instead of asking her to split the rent, I started to just resent her for it.
+  - Text: I can't afford to pay rent so instead of
+  - Template: `i can't afford [X], so instead of [healthy action], i started to [toxic reaction]`
+  - Visual: Tight close-up, wired earbuds, city sky behind, word-by-word captions — intimate confession framing
+  - Why: Self-incriminating money+relationship confession (good intent, ugly emotion) triggers debate and identification → 13x.
+- **12.5x** · 1.5M · IG · 2025-04-03 · 81s · talking_head · [link](https://www.instagram.com/reel/DH-PtyWs3bn/)
+  - Spoken: For the past month, I have been in one of the biggest slumps of my life. I procrastinated all my work, woke up at 10 a.m., stayed up until 3 a.m. playing mobile games.
+  - Text: For the past month I have been in one of the biggest slumps of my life.
+  - Template: `for the past [timeframe], i have been in one of the biggest [slumps] of my life`
+  - Visual: Wide shot of him lying on the bed in a messy room, drinks on the floor; slump mood
+  - Why: Vulnerable slump confession shot lying in bed matches the viewer's own state; mirror-relatability drove 12.5x.
+- **10.23x** · 1.8M · IG · 2026-01-19 · 114s · talking_head · [link](https://www.instagram.com/reel/DTrTp5LDsnh/)
+  - Spoken: Four years ago I thought the meaning of life was getting a girlfriend. How is this late-blooming 17-year-old who spent his high school years playing [video games]...
+  - Template: `[n] years ago I thought the meaning of life was [naive goal]`
+  - Visual: Shirtless, seated on a stool in a dim candle-lit apartment, cinematic wide shot with large serif captions.
+  - Why: Universal, slightly embarrassing confession + then-vs-now physique visual; relatable to any young man, not just creators (10x).
+- **6.49x** · 198k · TT · 2026-08-03 · 89s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7669509159255117086)
+  - Spoken: I just had a record month in my business, and I think it's causing me to become a terrible boyfriend.
+  - Text: I just hit ... in my business, it's causing me...
+  - Template: `I just hit [big win], and I think it's causing me to become a terrible [role]`
+  - Visual: Close-up with wired earbuds mic, bright bedroom, word-by-word captions on face — same format as the 3.2M rent video
+  - Why: Repeats the winning 'success vs relationship guilt' confession template; 6.5x.
+- **6.38x** · 603k · IG · 2024-06-12 · 75s · vlog_story · [link](https://www.instagram.com/reel/C8Grf-GM_2M/)
+  - Spoken: Three weeks ago, my mom helped me move out of Boston College for the last time ever. Now, this would usually be a proud moment for an immigrant Korean mom.
+  - Template: `[time] ago, my [parent] helped me [milestone] for the last time ever. this would usually be a proud moment for [identity]... (but)`
+  - Visual: Cuts from him on a couch to him and his mom side by side in a warehouse-style space.
+  - Why: 6.4x: story opener with an implied twist (dropout vs proud immigrant mom) and his mom on camera.
+- **5.43x** · 425k · IG · 2026-09-03 · 66s · talking_head · [link](https://www.instagram.com/reel/Dcy05J2Bypm/)
+  - Spoken: I feel so f*cking alone, man. I dropped out of college when I was 20 to chase one number on a screen, which was to hit $100k a month.
+  - Text: POV: you chased money for 13 months straight
+  - Template: `POV: you chased [goal] for [n] months straight / i feel so alone`
+  - Visual: Night, purple-lit face close-up outdoors with city lights, AirPods in, then cut to red-lit apartment; POV text up top.
+  - Why: Good-thing-brings-bad-emotion confession (chasing money -> loneliness) with high stakes (dropout) and a POV text frame (5.4x).
+- **4.48x** · 78k · TT · 2026-06-15 · 44s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7651477664464637215)
+  - Spoken: I can't afford to pay the $5,700 a month rent in New York City for me and my girlfriend.
+  - Text: I can't afford $5,700 a month
+  - Template: `I can't afford [specific $ amount] for [relatable life cost] — reply to comment`
+  - Visual: Extreme face close-up with a comment bubble '5.6K in rent is crazy work'; big captions 'I can't afford' / '$5,700 a month'
+  - Why: Vulnerable money admission with an exact number, replying to a pile-on comment (4.5x).
+- **4.01x** · 258k · IG · 2024-01-17 · 62s · vlog_story · [link](https://www.instagram.com/reel/C2MJPHmMsnI/)
+  - Spoken: Today was our last first day of college classes, because I plan on dropping out at the end of this semester.
+  - Text: today first day of because I plan on
+  - Template: `today was my last [first day of X] because i plan on [big risky move]`
+  - Visual: Vlog cuts: dorm room, writing in a journal at desk, then walking outside in a hood and glasses in the cold.
+  - Why: 4.0x: high-stakes life decision (dropping out) told on the day it happens.
+- **4.0x** · 388k · IG · 2024-08-31 · 78s · talking_head · [link](https://www.instagram.com/reel/C_VNo4sIxj6/)
+  - Spoken: I recently dropped out of college to pursue my dream of being an entrepreneur because all these YouTube gurus told me 'you don't need college to learn business'...
+  - Template: `I recently [risky life decision] because all these [gurus] told me '[popular advice]', and since...`
+  - Visual: Selfie close-up, then cuts to tense table conversation with family, then him at desk.
+  - Why: High-stakes life decision that viewers argue about + implied consequence; 4x.
+- **3.13x** · 249k · IG · 2024-04-17 · 55s · voiceover_broll · [link](https://www.instagram.com/reel/C51X7OgvbrP/)
+  - Spoken: I finally convinced my Korean mom after 20 discussions to approve of me dropping out of college, and I realized in order to do so I actually had to detach from my mom's approval.
+  - Template: `I finally convinced my [specific parent] after [N] [attempts] to approve of me [risky decision]`
+  - Visual: Wide shot of him and his mom talking across a diner table.
+  - Why: Specific identity (Korean mom) + number + taboo dropout; real footage with mom; 3.1x.
+- **3.05x** · 368k · IG · 2025-03-22 · 91s · talking_head · [link](https://www.instagram.com/reel/DHeY7ZsRZaI/)
+  - Spoken: You know, I really thought life would get better after making $100K a month.
+  - Text: you know ... life ... $100k a month
+  - Template: `i really thought life would get better after [big achievement]`
+  - Visual: Wide shot sitting on a stool in an RGB-lit room, bold kinetic captions.
+  - Why: Money-doesn't-fix-it confession carried by a huge flex; 3x.
+- **2.19x** · 361k · IG · 2025-01-24 · 81s · talking_head · [link](https://www.instagram.com/reel/DFMjXsFxXDt/)
+  - Spoken: I think I just reached the point where online business feels like a frickin' video game.
+  - Text: I think I've reached the point where online business feels like a video game
+  - Template: `i think i just reached the point where [thing] feels like a [fun analogy]`
+  - Why: Aspirational analogy (business = video game) implies big wins without stating numbers (2.2x).
+- **2.11x** · 212k · IG · 2024-06-10 · 51s · talking_head · [link](https://www.instagram.com/reel/C8BqBaVAgAB/)
+  - Spoken: I have an irrational fear of admitting when I'm sick.
+  - Text: I have an irrational fear of admitting when I'm sick
+  - Template: `i have an irrational fear of [relatable admission]`
+  - Why: 2.1x: quirky, relatable confession that viewers recognize in themselves.
+- **2.05x** · 353k · IG · 2026-01-01 · 174s · vlog_story · [link](https://www.instagram.com/reel/DS9KItyD0-a/)
+  - Spoken: What the f*ck, I missed my f*cking parlay by 1 point?
+  - Text: What the f*ck I missed my f*cking parlay by 1 point?
+  - Template: `[raw in-the-moment reaction to a loss]?`
+  - Visual: In a subway station staring at phone, frustrated; quick crop/zoom cut.
+  - Why: Raw emotional reaction mid-moment, relatable sports-betting pain; 2x.
+- **2.05x** · 268k · IG · 2025-10-07 · 79s · vlog_story · [link](https://www.instagram.com/reel/DPfU-GpiMuF/)
+  - Spoken: POV: your Korean mom finally saw how much you made online. "It makes me so proud seeing how much..."
+  - Text: POV: your Korean mom finally saw how much you made online
+  - Template: `POV: your [strict parent] finally saw how much you made [online]`
+  - Why: 2.05x: emotional parent-approval payoff on the dropout arc; the cultural identity makes it shareable.
+
+## pov_day_in_life (12)
+
+- **28.69x** · 1.8M · IG · 2024-01-26 · 63s · vlog_story · [link](https://www.instagram.com/reel/C2jFTjmNY9b/)
+  - Spoken: POV: Watch me unf*ck my life up in 1 morning. It is currently 1:36 AM. I am promising to myself that I will wake up at 6 AM.
+  - Text: POV: Watch me unf*ck my life up in 1 morning
+  - Template: `POV: watch me [fix painful situation] in [short timeframe]`
+  - Visual: Red-lit bedroom at night, he holds a wristwatch to camera; 'it is currently 1:36AM' subtitle.
+  - Why: 28.7x: relatable self-sabotage + a tiny, believable timeframe; the 1:36am watch shot and red light give instant stakes.
+- **28.38x** · 1.8M · IG · 2024-03-29 · 65s · vlog_story · [link](https://www.instagram.com/reel/C5GkOGbuub1/)
+  - Spoken: My parents don't know yet, but we actually have a 5-day break from school. So we're back home in New Jersey from Boston, and we're gonna surprise my parents.
+  - Text: my parents don't know yet but we actually have a 5 day break from school
+  - Template: `my [people] don't know yet, but [secret plan to surprise them]`
+  - Visual: Night-time close-up selfie walking, small subtitles, whispered conspiratorial energy
+  - Why: Secret + family-surprise reunion is universally relatable with a built-in emotional payoff → 28x.
+- **25.2x** · 228k · TT · 2026-10-15 · 42s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7696791062173453599)
+  - Spoken: POV: Claude is editing 7 REELS while I sleep (idek how to code) — "So I just discovered that Claude can edit your videos for you and I'm becoming an absolute maniac with that"
+  - Text: POV: Claude is editing 7 REELS while i sleep (idek how to code) 😭
+  - Template: `POV: [AI tool] is [doing N tedious tasks] while i sleep (idek how to [skill])`
+  - Visual: Hyped selfie in purple-lit room, pointing at head, POV text top, word-by-word captions
+  - Why: Timely AI-tool novelty + 'while I sleep' passive-result fantasy + 'I can't code' lowers the barrier: 25x.
+- **24.13x** · 3.5M · IG · 2025-11-18 · 38s · vlog_story · [link](https://www.instagram.com/reel/DRK1DAsD_zV/)
+  - Spoken: POV: surprising my girlfriend with first class tickets from Korea
+  - Text: POV: surprising my girlfriend with first class tickets from Korea
+  - Template: `POV: surprising my [partner/family] with [aspirational luxury gift]`
+  - Visual: Walking down a plane aisle with backpack, 'telling her the seat' sub-caption, EXIT sign — the reveal moment is already in motion
+  - Why: Universal aspirational relationship moment with a guaranteed emotional reveal; zero niche barrier → 24x.
+- **22.34x** · 194k · TT · 2026-10-15 · 31s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7696916687039335710)
+  - Spoken: POV: you asked Claude to edit and it already made u viral — Update on my Claude editing team: it's now 3:30 a.m. and we have multiplied.
+  - Text: POV: you asked claude to edit and it already made u viral
+  - Template: `POV: you asked [AI tool] to [task] and it already [result]`
+  - Visual: Shirtless manic close-up under RGB green/blue lighting, unhinged energy, POV text top-center with emojis
+  - Why: Timely AI-agent topic + unhinged 3:30am comedic energy; 22x on a recent account baseline.
+- **17.01x** · 1.3M · IG · 2024-02-09 · 80s · vlog_story · [link](https://www.instagram.com/reel/C3HaHoaMhCz/)
+  - Spoken: 6:05AM — this blanket is so warm... or maybe we just quit all this entrepreneurship stuff and sleep in. 3, 2, 1.
+  - Text: 6:05AM / this blanket is so warm
+  - Template: `[early time]AM — [relatable temptation]... or maybe we just quit all this [ambition] and [give in]. 3, 2, 1`
+  - Visual: Low wide-angle shot from the bed, him burrowed under the blanket, giant '6:05AM' timestamp on top.
+  - Why: Hyper-relatable get-out-of-bed struggle with a countdown that creates tension about whether he gets up; 17x.
+- **12.31x** · 1.2M · IG · 2025-06-13 · 49s · vlog_story · [link](https://www.instagram.com/reel/DKyp44pOcwG/)
+  - Spoken: POV: u and bro realize u need to lock in at 2am
+  - Text: POV: u and bro realize u need to lock in at 2am
+  - Template: `POV: u and bro realize u need to [lock in] at [late time]`
+  - Visual: Two guys (one shirtless) push a phone showing 2:24 at the camera, then jump to 'at 8am' morning.
+  - Why: 12x: relatable 'lock in' meme language + duo energy + phone-clock proof in frame 1.
+- **10.29x** · 112k · TT · 2022-10-23 · 14s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7157396636409417002)
+  - Spoken: life after college...
+  - Text: life after college...
+  - Template: `life after [milestone]...`
+  - Visual: Montage of a (different) young guy: metro commute, office desk in shirt & tie, brushing teeth in mirror - corporate grind
+  - Why: Dread-relatable corporate montage with 3-word text; caption pivots to creator-vs-consumer: 10x.
+- **5.28x** · 389k · IG · 2024-02-25 · 63s · voiceover_broll · [link](https://www.instagram.com/reel/C3wdbkDsRoK/)
+  - Spoken: This is my complete looksmaxxing routine as a Korean 20-year-old college student.
+  - Template: `this is my complete [routine] as a [ethnicity] [age]-year-old [identity]`
+  - Visual: Shirtless, putting on a creepy blue face mask, extreme close-up of the mask, then full-body in dorm — weird visual pattern interrupt.
+  - Why: Trending 'looksmaxxing' term + Korean identity + bizarre face-mask visual; 5.3x.
+- **3.25x** · 301k · IG · 2024-10-26 · 52s · vlog_story · [link](https://www.instagram.com/reel/DBl7kgjR3IE/)
+  - Spoken: Day in the life of an unemployed college dropout. So we started off by going to the Apple Store to buy a MacBook.
+  - Text: day in the life of an unemployed college dropout
+  - Template: `day in the life of a [ironic/self-deprecating identity]`
+  - Visual: Unboxing a MacBook on the Apple Store table, captions 'day in the life / unemployed'.
+  - Why: 3.3x: ironic identity label ('unemployed dropout') buying a MacBook creates a tension/curiosity hook.
+- **3.14x** · 328k · IG · 2024-06-08 · 54s · vlog_story · [link](https://www.instagram.com/reel/C772zx0R6jH/)
+  - Spoken: Day in the life of an entrepreneur who's making $10K per month (sad).
+  - Text: day in the life / entrepreneur / $10K per month
+  - Template: `day in the life of a [identity] making [$X] per month`
+  - Visual: Low angle across a table toward him on the couch, bold captions.
+  - Why: Income-specific DITL plus a GameStop meme-stock moment; 3.1x.
+- **3.13x** · 294k · IG · 2024-08-06 · 68s · vlog_story · [link](https://www.instagram.com/reel/C-THHUsRnO8/)
+  - Spoken: This is what I eat in a day as a 20 year old college dropout in New York City.
+  - Text: what I eat in a day as a 20 year-old in New York City
+  - Template: `this is what i eat in a day as a [age] year old [identity] in [city]`
+  - Why: 3.1x: proven 'what I eat in a day' format + aspirational NYC dropout identity.
+
+## pain_callout_if_you (11)
+
+- **96.47x** · 2.6M · TT · 2023-11-11 · 108s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7300247984116157739)
+  - Spoken: If you want to start creating content but you're afraid people are gonna judge you and talk shit about you — don't worry, they will.
+  - Text: if you wanna start creating content … and talk sh*t about you
+  - Template: `if you want to [goal] but you're afraid [fear] — don't worry, [it will happen].`
+  - Visual: Plain tight selfie talking head in a bedroom, black tee, small centered subtitles — zero production, raw rant energy.
+  - Why: Names the #1 fear of aspiring creators then flips it with a blunt 'they will' twist — 96x, the biggest outlier in the batch.
+- **15.69x** · 1.5M · IG · 2025-06-22 · 96s · talking_head · [link](https://www.instagram.com/reel/DLI6U7VRPf0/)
+  - Spoken: If you've been laying in bed scrolling for the past hour and you feel like you've just ruined the rest of your day, so you have zero motivation, please just give me 60 seconds, I'm going to change your life.
+  - Template: `if you've been [doing the bad thing right now] and you feel like [consequence], please just give me [60 seconds], I'm going to [big promise]`
+  - Visual: Tight, calm, low-energy selfie close-up, eyes down, minimal word captions.
+  - Why: Calls out exactly what the viewer is doing at that moment (scrolling) + short time ask; 15.7x.
+- **15.6x** · 168k · TT · 2026-07-15 · 59s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7662442662921899295)
+  - Spoken: If you're Asian, you gotta start posting content, bro, because the competition could not be f***ing easier.
+  - Text: If you're Asian you gotta [start posting] content bro
+  - Template: `If you're [identity], you gotta start [action], because the competition could not be easier`
+  - Visual: Grey tee, plushies in foreground, mini photo strip of 3 Asian creators above head
+  - Why: Identity call-out that's slightly provocative invites shares and debate (15.6x).
+- **11.06x** · 897k · IG · 2025-08-19 · 83s · talking_head · [link](https://www.instagram.com/reel/DNhvXkfucfZ/)
+  - Spoken: If you actually wanna be one of the few people who change their life in the next six months — the great lock-in of 2025 — please listen up, because in the next 60 seconds...
+  - Text: if you actually wanna be one of the few people who change their life in the next 6 months
+  - Template: `if you actually wanna be one of the few people who [transformation] in the next [timeframe], listen up`
+  - Visual: Close-up at night with blue ambient light, tank top, intense direct eye contact
+  - Why: Exclusive 'one of the few' identity + trend keyword 'lock-in' + 60-second value promise (11x).
+- **10.52x** · 95k · TT · 2023-03-23 · 46s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7213622611186650410)
+  - Spoken: Congratulate yourself for the imperfect days — that 5/10 workout where you were tired as hell and only finished half of it.
+  - Text: Congratulate yourself / That 5/10
+  - Template: `congratulate yourself for the [imperfect effort]`
+  - Visual: Close-up soft-lit face 'Congratulate' / 'yourself', then hard cut at ~2.5s to a dark blue-LED gym shot curling a dumbbell with 'That 5/10' — B-roll illustrating the line.
+  - Why: Permission-giving reframe of failure with concrete imperfect examples + B-roll cut — emotional/shareable, 10.5x.
+- **6.45x** · 83k · TT · 2025-06-15 · 86s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7516003445703249182)
+  - Spoken: If you're Asian and you want to start posting content, please listen up, because the competition could not be fucking easier, bro.
+  - Template: `if you're [identity] and you want to [goal], please listen up, because [the competition is easy]`
+  - Visual: Raw handheld close-up selfie at night, no on-screen text, conversational
+  - Why: Hyper-specific identity callout + 'it's easy for you' reassurance: 6.5x even without text.
+- **5.23x** · 96k · TT · 2023-10-13 · 90s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7289192270790855982)
+  - Spoken: Here's why your TikTok videos are stuck at 200 views even though they're good videos. I guarantee it's because you're scripting your videos completely wrong.
+  - Text: Here's why your TikTok videos are stuck at 200 views
+  - Template: `here's why your [content] is stuck at [low number] even though [it's good]`
+  - Why: Precise pain point (200 views) + single-cause diagnosis; 5.2x.
+- **4.63x** · 488k · IG · 2025-09-16 · 127s · talking_head · [link](https://www.instagram.com/reel/DOpfLgpjZQq/)
+  - Spoken: If you were hideously addicted to video games like League of Legends growing up, I think it's a very strong indicator that you might be really good at business.
+  - Text: if you were hideously addicted ... like league of legends
+  - Template: `if you were [embarrassing habit] growing up, it's a strong indicator you might be really good at [desirable skill]`
+  - Visual: Tight face close-up in a car, kinetic captions.
+  - Why: Turns a shameful identity into a hidden strength — validation hook for a huge gamer cohort; 4.6x.
+- **3.51x** · 337k · IG · 2025-06-16 · 85s · talking_head · [link](https://www.instagram.com/reel/DK6F68AszpJ/)
+  - Spoken: If you're Asian and you want to start posting content, please listen up, because the competition could not be f*cking easier, bro.
+  - Template: `if you're [identity] and you want to [goal], listen up, because the competition could not be easier`
+  - Visual: Selfie close-up, white tee, captions 'if you're Asian / content,'.
+  - Why: 3.5x: hyper-specific identity callout (Asian creators) is polarizing and shareable; casual delivery.
+- **2.52x** · 225k · IG · 2024-09-08 · 58s · talking_head · [link](https://www.instagram.com/reel/C_qGSbSRx_s/)
+  - Spoken: Your reels are stuck under a thousand views because you haven't learned how to script. As somebody who's grown over 150,000 followers on Instagram this year,
+  - Template: `your [content] is stuck under [number] because you haven't learned [skill]. as someone who's [proof],`
+  - Why: Names the exact pain (under 1k views) and the cause in one line, then proof in sentence two (2.5x).
+- **2.33x** · 258k · IG · 2026-05-19 · 46s · talking_head · [link](https://www.instagram.com/reel/DYf7xj8tOhm/)
+  - Spoken: There are fully grown men out there posting videos of themselves talking about 'here's how to...' and they get 900 views.
+  - Text: "grown man posting to 900 views 😭🥀"
+  - Template: `"grown man posting to [tiny number] views"`
+  - Visual: Shirtless face close-up, meme-style quoted caption with 😭🥀 emojis.
+  - Why: Meme-coded roast of struggling creators stings and gets shared; 2.3x.
+
+## money_reveal (14)
+
+- **61.78x** · 994k · TT · 2023-09-21 · 67s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7281302150100028715)
+  - Spoken: If you already didn't have enough motivation to post on TikTok, this is your fucking sign. Three days ago I joined TikTok's creativity program beta and it has an RPM of two dollars.
+  - Text: if you already didn't have enough motivation to post on TikTok
+  - Template: `if you didn't already have enough motivation to [action], this is your sign: [money/earnings proof]`
+  - Visual: Green-screen over the TikTok Creator Rewards dashboard ($79.00 estimated rewards, spiking graph); excited face, red jacket.
+  - Why: Timely monetization news with an on-screen earnings screenshot — proof + FOMO (62x).
+- **34.38x** · 434k · TT · 2026-09-13 · 58s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7684938764887608607)
+  - Spoken: After my business made $402,000 last month, I felt terrified because I believe that's an amount of money no 22-year-old should have access to.
+  - Text: after $402,000 last month,
+  - Template: `after my business made $[big number] last month, i felt [unexpected emotion] because [age]`
+  - Visual: Selfie walking in a business-class lie-flat seat then airport terminal — wealth B-roll proves the number
+  - Why: Specific huge money number + counterintuitive emotion (terror, not joy) + lux travel visual; 34x.
+- **30.21x** · 221k · TT · 2025-06-18 · 219s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7517019073994181919)
+  - Spoken: At 21 years old I've briefly touched f*ck you money — my business made $100,000 in a single month once, and now currently does $30,000 to $40,000 every month.
+  - Text: at 21 years old I've briefly touched f*ck you money
+  - Template: `at [age] I've briefly touched [f*ck you money/dream result]`
+  - Visual: Tight face close-up indoors, small centered caption; caption reframes as 'downsides' of success
+  - Why: Age + taboo money phrase + implied downside ('briefly') = envy and curiosity; 30x on a 219-s video.
+- **11.28x** · 198k · TT · 2026-08-18 · 105s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7675236223073471775)
+  - Spoken: In the last year I've paid over $6,000 to Claude and spent over $1,000 learning Claude Code… (dashboard: $251,348.12 last 30 days)
+  - Text: in the last year / I've paid over $6,000 to Claude
+  - Template: `in the last year I've paid over [$X] to [hot tool] — [revenue on screen]`
+  - Visual: Purple-lit desk setup, monitor showing Claude Code + revenue dashboard ($251,348.12), eating grapes; yellow text 'in the last year'.
+  - Why: Trending AI tool + big spend figure + revenue screenshot = proof and novelty (11.3x).
+- **11.22x** · 942k · IG · 2025-06-19 · 177s · talking_head · [link](https://www.instagram.com/reel/DLBV0FhxEA9/)
+  - Spoken: At 21 years old, I've briefly touched f*ck-you money - my business made $100,000 in a single month once, and it now currently does anywhere between $30,000 and $40,000 every month.
+  - Text: at 21 years old I've briefly touched f*ck you money
+  - Template: `at [age] i've briefly touched [aspirational money term]`
+  - Visual: Plain close-up selfie in apartment, small caption repeating the line; no props.
+  - Why: Emotion-loaded keyword ('f*ck you money') + young age + concrete $100k/month proof in sentence one (11x).
+- **7.86x** · 95k · TT · 2026-06-16 · 52s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7651862219537304862)
+  - Spoken: Here's how much I spend in a day to survive in New York City as a frugal 22 year old.
+  - Text: 9:01am $0 / here's how much (I spend in) a day to (survive in NYC) as a frugal (22 year old)
+  - Template: `here's how much I spend in a day to survive in [expensive city] as a [frugal/broke] [age] year old`
+  - Visual: Waking up in hotel bed with running clock '9:01am' + '$0' spend counter on screen
+  - Why: Proven 'cost of a day in NYC' format with a live $ counter as a built-in retention device: 7.9x.
+- **4.61x** · 541k · IG · 2025-07-08 · 93s · talking_head · [link](https://www.instagram.com/reel/DLzbiA2x67Y/)
+  - Spoken: So I'm 21 years old and I've briefly touched f*ck-you money. My business made over $100,000 in a single month in January of 2025.
+  - Text: so I'm 21 years old and I've briefly touched f*ck you money
+  - Template: `so I'm [age] and I've briefly touched [money slang]. my business made [$] in a single month`
+  - Visual: Lying in bed with a giant pink Kirby plush behind him, purple light; small text hook on top.
+  - Why: Age + money slang keyword + concrete $100k month proof; odd cozy visual; 4.6x.
+- **3.94x** · 608k · IG · 2025-02-05 · 72s · vlog_story · [link](https://www.instagram.com/reel/DFrgWvMxpi-/)
+  - Spoken: 3 days ago... We did it. $100K. January 1st to January 31st, 2025.
+  - Text: 3 days ago...
+  - Template: `[N] days ago... we did it. [$ amount] in [one month]`
+  - Visual: Celebration flex in tank top under '3 days ago...' then cut to laptop revenue chart — proof in frame 3
+  - Why: Peak-moment celebration of a $100k month with visual proof; payoff of a long public goal → 3.9x.
+- **3.82x** · 47k · TT · 2023-06-01 · 77s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7239455064719363371)
+  - Spoken: Life update: I just hit my first $10,000 month.
+  - Text: Life update / I just hit my first $10,000 month
+  - Template: `life update: I just hit my first [$ milestone] month`
+  - Why: Milestone money reveal from a relatable gap-year kid: 3.8x.
+- **3.52x** · 605k · IG · 2026-01-05 · 50s · talking_head · [link](https://www.instagram.com/reel/DTGXHKtCSLp/)
+  - Spoken: POV: you made $1,000 in your sleep. We just woke up to $650 - and that's not it, another $300...
+  - Text: POV: you made $1,000 in your sleep
+  - Template: `POV: you made [$amount] in your sleep`
+  - Visual: Holding phone to camera showing a creator-app payout screen '$650.00 - You just earned $650 from a short video', smiling.
+  - Why: Passive-income fantasy with on-screen payout proof in frame one (3.5x).
+- **3.39x** · 265k · IG · 2026-09-13 · 59s · talking_head · [link](https://www.instagram.com/reel/DdNjyZRog1k/)
+  - Spoken: After my business made $402,000 last month, I felt terrified, because I believe that's an amount of money no 22-year-old should have access to.
+  - Template: `after my business made [$X] last month, i felt [unexpected emotion] because [vulnerable reason]`
+  - Visual: Selfie in a business-class pod, then airport terminal — luxury travel backdrop reinforcing the money.
+  - Why: Huge number paired with a counterintuitive emotion (terror, not joy); 3.4x — the first time he used it.
+- **3.23x** · 57k · TT · 2023-02-08 · 96s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7197791534765493550)
+  - Spoken: Here's how much money I've made in the past two years making comedy videos on TikTok.
+  - Text: Here's how much money I've made
+  - Template: `here's how much money I've made in the past [timeframe] making [content] on [platform]`
+  - Why: Creator-income reveal with 933K-follower profile proof on screen — classic curiosity, 3.2x.
+- **2.97x** · 223k · IG · 2026-08-03 · 25s · vlog_story · [link](https://www.instagram.com/reel/DbkBebZt-Ko/)
+  - Spoken: POV: it's the last day of the month and we JUST hit $200k/month — Prosper just finished up a sales call...
+  - Text: POV: it's the last day of the month and we JUST hit $200k/month
+  - Template: `POV: it's the last day of the month and we JUST hit [$X/month]`
+  - Visual: Hype celebration in the apartment; friend shoves a phone with the revenue dashboard into the lens.
+  - Why: Live last-minute win with proof on a phone in 25s; 3x.
+- **2.5x** · 377k · IG · 2025-11-11 · 52s · talking_head · [link](https://www.instagram.com/reel/DQ4qHmbD_eU/)
+  - Spoken: Here's how much money I made each year as a content creator: year 1, $20; year 2, $8,000; year 3, $50,000; year 4, $216,000; and year 5, so far in 10 months, $500,000.
+  - Text: how much $$$ i made as a creator each year — year 1: / year 2: / year 3: / year 4: / year 5:
+  - Template: `how much $ i made as a [identity] each year: year 1 [$], year 2 [$] ... year 5 [$]`
+  - Why: Year-by-year money ladder with blank slots on screen; works, but his money reveals are familiar to followers → 2.5x.
+
+## explainer_nutshell (5)
+
+- **347.03x** · 3.8M · TT · 2022-09-29 · 55s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7148528196881845550)
+  - Spoken: Here's the only video you will ever need to watch to understand TikTok's algorithm. No, there's no secret post times or hashtags that instantly boost your views.
+  - Text: Here's the only video to understand
+  - Template: `here's the only video you will ever need to watch to understand [confusing system]`
+  - Visual: Talking head, then by 2s a cut to a skit: Mino in suit + drawn mustache personifying 'Mr. Algorithm' with a name card
+  - Why: Mega-winner (3.8M, 347x): definitive 'only video you need' promise + myth-busting + personified-algorithm skit made a dry topic entertaining.
+- **21.52x** · 108k · TT · 2025-09-05 · 85s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7546466364219854111)
+  - Spoken: Iman Gadzhi — this YouTuber made over $100 million online...
+  - Text: Iman Gadzhi / this YouTuber / over $100 million online
+  - Template: `[famous person] — this [creator] made over $[X] online... [their philosophy] summarized in [N] seconds`
+  - Visual: Green-screen selfie in a lobby with Iman Gadzhi's face thumbnail popping over his head, then a YouTube title card 'How He Made $100m'; authority face cut-in by 1s.
+  - Why: Borrowed-authority face cut-in + $100M number; summarizing a famous figure's niche book ('Reality Transurfing') = 21.5x.
+- **8.23x** · 702k · IG · 2026-02-27 · 35s · talking_head · [link](https://www.instagram.com/reel/DVOp94KD3dz/)
+  - Spoken: Here's how I create viral Instagram reels explained so simply that a 5-year-old can understand.
+  - Text: How to go viral explained so a 5yr old can understand
+  - Template: `how to [skill] explained so a 5-year-old can understand`
+  - Visual: Seated talking head in bedroom; 4.6M and 1.9M view-count badges pop over his head in frames 2-3 as instant proof
+  - Why: Simplicity promise + on-screen proof badges + instantly starts the steps (zero intro) → 8.2x.
+- **5.84x** · 90k · TT · 2024-11-14 · 53s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7436967353910381854)
+  - Spoken: Here's the only video you'll ever need to watch to sound natural on camera — because there's nothing worse than sounding like this.
+  - Text: here's [the only video you'll] ever [need to watch to] sound natural
+  - Template: `here's the only video you'll ever need to watch to [outcome] — because there's nothing worse than [bad example]`
+  - Why: Definitive 'only video you need' promise + live bad-example demo (5.8x).
+- **5.29x** · 57k · TT · 2022-09-30 · 30s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7149188771425078571)
+  - Spoken: TikTok just added retention graphs, and you need to know how to use them if you want to grow going forward — so here's everything you need to know.
+  - Text: RETENTION GRAPHS / how to use them
+  - Template: `[platform] just added [new feature], and you need to know how to use it if you want to [goal] — here's everything you need to know`
+  - Why: Timely platform-feature news + 'need to know' urgency (5.3x).
+
+## levels_tiers (2)
+
+- **139.19x** · 3.8M · TT · 2026-07-24 · 165s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7665790023186402591)
+  - Spoken: This is how to break out of every level of view jail. As a person who's grown multiple accounts, the best of which has averaged a million views per video.
+  - Text: how to escape Every lvl of view jail • 100 views - 0:08 • 1,000 views - 0:25 • 10K views - 0:52 • 100K views - 1:53
+  - Template: `how to escape every level of [pain state] ([tier 1] / [tier 2] / [tier 3] with timestamps)`
+  - Visual: Tight selfie, plain wall; big title 'Every lvl of view jail' + timestamped chapter list (100 / 1K / 10K / 100K views) on screen, pointing finger at it.
+  - Why: Every viewer self-locates on the tier ladder (pain 'view jail') and the on-screen chapters promise a skip-ahead payoff; 139x median, 3.8M.
+- **10.06x** · 645k · IG · 2026-07-24 · 166s · talking_head · [link](https://www.instagram.com/reel/DbLqaO8Bgt2/)
+  - Spoken: This is how to break out of every level of view jail.
+  - Text: how to escape every lvl of view jail
+  - Template: `this is how to break out of every level of [pain state]`
+  - Visual: Clean selfie talking head with title + timestamped chapter list on screen (100 views 0:08 / 1,000 0:25 / 10K 0:52 / 100K 1:53) — viewer finds their level.
+  - Why: Named pain ('view jail') + on-screen chapters let every creator self-locate; 10x despite 166s length.
+
+## secret_nobody_tells (12)
+
+- **57.28x** · 716k · TT · 2026-02-24 · 100s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7610183903243930911)
+  - Spoken: Everyone will tell you to start posting content, start a personal brand, it's the cheat code to wealth — but no one actually talks about what it's like to post every day for months...
+  - Text: the lonely chapter when chasing your dreams
+  - Template: `everyone will tell you to [popular advice], but no one talks about [hidden cost]`
+  - Visual: Very tight selfie with wired earbuds held to mouth, intense brow, emotional header text 'the lonely chapter when chasing your dreams'
+  - Why: Emotional 'nobody talks about the lonely part' angle on a crowded topic; 57x.
+- **15.07x** · 185k · TT · 2023-05-01 · 108s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7228219422232694058)
+  - Spoken: The marketing genius behind Iman Gadzhi's success: Iman Gadzhi is one of the hottest names in entrepreneurship right now, with an estimated $85M net worth by 23, and today I'm dissecting...
+  - Text: The marketing genius behind Iman Gadzhi's success
+  - Template: `The marketing genius behind [famous creator]'s success`
+  - Visual: Green-screen over a clip of Iman holding a card/camera, red title box top, grey caption box
+  - Why: Borrows a famous name's audience and promises a teardown of his secret; 15x.
+- **13.31x** · 1.3M · IG · 2024-06-16 · 67s · talking_head · [link](https://www.instagram.com/reel/C8QFlapP9YW/)
+  - Spoken: Here is the one thing you need to know if you actually want to blow up on Instagram — and no, it's not what niche you're in, it's not your captions...
+  - Template: `here is the one thing you need to know if you actually want to [goal] — and no, it's not [common belief 1], it's not [common belief 2]`
+  - Visual: Standing on the edge of a NYC rooftop with blue sky, full-body, word captions 'Here / one thing / wanna blow up'.
+  - Why: 13x: single-secret curiosity gap plus pre-emptive debunking of the obvious answers; filmed on a rooftop ledge for a striking first frame.
+- **11.47x** · 249k · TT · 2026-07-21 · 26s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7664814453480803614)
+  - Spoken: Ludwig makes $1 MILLION a MONTH?? — "Bro, one of the most underrated content gurus out there is fucking Ludwig."
+  - Text: Ludwig makes $1 MILLION a MONTH??
+  - Template: `[famous creator] makes [$X a month]?? — one of the most underrated [gurus] out there is [name].`
+  - Visual: Night selfie by floor-to-ceiling window with lit skyline; bold title on top, small subtitles.
+  - Why: Famous name + shocking income figure borrows curiosity and search interest (11.5x).
+- **5.7x** · 83k · TT · 2026-06-15 · 49s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7651647028866338078)
+  - Spoken: There's only 2 ways actual creators who are going viral are using AI, and nobody's talking about it.
+  - Text: There's only 2 ways [creators going viral use AI]
+  - Template: `There's only [N] ways [successful group] are using [hot tool], and nobody's talking about it`
+  - Visual: Tank top, Coke can, camera in foreground; AI logo + view-count stickers (685K / 640K)
+  - Why: Hot topic (AI) + secret framing + proof stickers (5.7x).
+- **5.49x** · 97k · TT · 2023-02-03 · 69s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7195638882246036782)
+  - Spoken: Here's the one trick that all successful TikTokers use to blow the f*** up and gain hundreds of thousands of followers in a month.
+  - Text: Here's that… blow the f!!ck up
+  - Template: `here's the one trick that all successful [identity] use to [huge result] in [timeframe]`
+  - Visual: Tight selfie, LED-strip room, bold word-by-word captions with censored 'f!!ck' in red.
+  - Why: 'One trick' curiosity gap + swearing energy + big promised outcome in a month; 5.5x.
+- **5.26x** · 60k · TT · 2026-07-03 · 123s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7658323788014046495)
+  - Spoken: $100k/month content lesson I learned from Hormozi
+  - Text: $100k/month content lesson I learned from Hormozi
+  - Template: `$[X]/month [topic] lesson I learned from [famous person]`
+  - Visual: Selfie with earbuds, inset photo of Hormozi at top, eyes-rolling face; caption '$100k/month content lesson I learned from Hormozi'.
+  - Why: Hormozi photo inset + money number — borrowed authority gave 5.3x even with no spoken hook.
+- **5.04x** · 63k · TT · 2026-09-08 · 44s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7683035496179715359)
+  - Spoken: A lot of people don't know this, but when JasonTheWeen first started posting content, I was one of the earliest people he followed.
+  - Text: Rank #1 JasonTheWeen impersonator
+  - Template: `a lot of people don't know this, but when [famous creator] first started, I was [insider connection]`
+  - Why: Name-drops a trending streamer + insider secret; 'yo chat' fan-language rewarded: 5x.
+- **4.9x** · 325k · IG · 2024-04-06 · 90s · voiceover_broll · [link](https://www.instagram.com/reel/C5aMi_MOSBX/)
+  - Spoken: If there's anything that's true about rock climbing, it's that it looks extremely easy and honestly boring from the outsider's perspective.
+  - Text: If there's anything that's true about rock climbing
+  - Template: `if there's anything that's true about [hobby], it's that it looks [easy/boring] from the outside`
+  - Visual: Over-the-shoulder shot of him climbing a bouldering wall; no face to camera.
+  - Why: 4.9x: self-aware 'this looks boring' line plus satisfying climbing footage; a novel topic for his feed.
+- **3.43x** · 57k · TT · 2026-05-12 · 62s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7638874399550082334)
+  - Spoken: The secret to a magnetic brand people beg to buy from — growing in content will feel easier...
+  - Text: the secret to a magnetic brand ppl beg to buy from
+  - Template: `the secret to a [desirable] brand ppl beg to buy from`
+  - Why: Classic 'the secret' + desirable outcome, text-only (no spoken opener): 3.4x.
+- **2.42x** · 203k · IG · 2025-06-21 · 136s · talking_head · [link](https://www.instagram.com/reel/DLF61KrRovG/)
+  - Spoken: So I have 7 friends my age who make over $1 million a year. I'm 21. And I noticed they're all really good at this one skill.
+  - Text: so I have 7 friends my age who make over $1 million a year
+  - Template: `i have [n] friends my age who make over [$], and they're all really good at this one skill`
+  - Why: 2.4x: borrowed millionaire proof + single-skill curiosity gap; long (135s) runtime capped it.
+- **2.04x** · 248k · IG · 2025-04-14 · 76s · talking_head · [link](https://www.instagram.com/reel/DE87HxER5YH/)
+  - Spoken: The hardest lesson you'll learn in college is that your friends are holding you back way more than you realize.
+  - Text: The hardest lesson you'll learn... holding you back
+  - Template: `the hardest lesson you'll learn in [life stage] is that [uncomfortable truth]`
+  - Why: Uncomfortable truth aimed at a clear identity (college students) — share/send bait → 2x.
+
+## stop_doing_warning (5)
+
+- **50.01x** · 660k · TT · 2024-05-23 · 107s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7371968030462496042)
+  - Spoken: STOP POSTING CONTENT NOW — You are completely messing up your content creation. You're gonna be stuck in 200-view jail and your parents are never going to be proud of you if you're not using this one algorithm [hack].
+  - Text: STOP POSTING CONTENT NOW
+  - Template: `STOP [doing X] NOW — you're completely messing up your [X]; you'll be stuck in [pain] if you're not using this one [thing]`
+  - Visual: Bold white caps 'STOP POSTING CONTENT NOW', black tank, LED-lit room, animated hand gestures, word-by-word captions
+  - Why: Command pattern-interrupt + escalating absurd stakes (view jail, parents' pride) -> 50x.
+- **5.81x** · 54k · TT · 2023-03-31 · 99s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7216459654086348075)
+  - Spoken: Stop chasing views on TikTok and focus on this instead. I grew a TikTok account to over 900,000 followers and that number means absolutely nothing.
+  - Text: Stop chasing views on TikTok and focus on this instead.
+  - Template: `stop chasing [vanity metric] and focus on this instead — I [big result] and that number means nothing`
+  - Visual: Hoodie talking-head, red banner 'Stop chasing views on TikTok and focus on this instead.' + flash of his 933.2K-follower profile screenshot as proof.
+  - Why: Stop-doing + proof (900K screenshot) + self-undermining regret = credible contrarian; 5.8x.
+- **3.88x** · 53k · TT · 2024-06-16 · 47s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7380804857315200287)
+  - Spoken: If you're not doing this one editing hack in CapCut, you are absolutely killing your Instagram growth — I call it Fanum Taxing your clips.
+  - Text: If you're [not doing this] one [editing hack] … absolutely [killing your growth]
+  - Template: `if you're not doing this one [hack] in [tool], you are absolutely killing your [growth] — I call it [meme name]`
+  - Why: Loss-aversion framing + Gen-Z meme naming (3.9x).
+- **2.79x** · 262k · IG · 2024-11-08 · 72s · talking_head · [link](https://www.instagram.com/reel/DCFrRyYxZxv/)
+  - Spoken: If you actually want to make progress this winter, you have to stop being obsessed with this idea of a winter arc.
+  - Text: if you [actually want to make] progress [this winter, stop] being [obsessed]
+  - Template: `if you actually want to [goal] this [season], you have to stop being obsessed with [trending idea]`
+  - Why: Hijacks the trending 'winter arc' keyword in November with a contrarian take → 2.8x.
+- **2.34x** · 47k · TT · 2023-05-12 · 98s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7232018635420863790)
+  - Spoken: Here's two TikTok editing styles you need to stop doing. The first one: Subway Surfers at the bottom of your own TikTok video.
+  - Text: HERE'S 2 EDITING STYLES YOU NEED TO STOP DOING
+  - Template: `here's [N] [craft] styles you need to stop doing`
+  - Why: Negative-framed listicle with an instantly recognizable example (Subway Surfers) — 2.3x.
+
+## listicle_count (10)
+
+- **28.44x** · 416k · TT · 2026-08-29 · 64s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7679153332258163998)
+  - Spoken: 8 signs of a low IQ content creator
+  - Text: 8 signs of a low IQ content creator
+  - Template: `[N] signs of a low IQ [identity]`
+  - Visual: Outdoor palm trees, close-up holding wired-earbud mic to mouth, big white two-line text over head; silent open
+  - Why: Insult-framed self-diagnosis ('am I low IQ?') makes creators watch to check themselves; 28x with zero spoken opener.
+- **7.55x** · 533k · IG · 2026-06-28 · 52s · talking_head · [link](https://www.instagram.com/reel/DaGtKEuuQG9/)
+  - Spoken: F*ck it. I'm gonna give you all 6 viral hooks in 60 seconds, and the last one got me 30 million views and 100,000 followers.
+  - Text: 6 viral hooks in 60 seconds
+  - Template: `i'm gonna give you all [N] [assets] in [short time], and the last one got me [huge result]`
+  - Visual: Close talking head with earbud mic, NYC window; view badges (713K, 725K, 2.1M, 2.3M, 5M, 12.4M) explode around the title
+  - Why: High value-per-second promise + 'the last one' retention bait + proof badges in frame 2 → 7.5x.
+- **6.81x** · 156k · TT · 2024-01-19 · 102s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7325530705897753898)
+  - Spoken: Alright, here's three reasons why you literally need to post once every single day on TikTok in 2024.
+  - Text: here's three reasons why you literally need to post once every single day
+  - Template: `here's [n] reasons why you literally need to [action] in [year]`
+  - Visual: Pink hoodie, holding RØDE shotgun mic like a selfie cam, then cut to wider sitting-on-floor shot; small subtitle captions
+  - Why: New-year urgency + simple count; 6.8x.
+- **4.44x** · 48k · TT · 2024-05-16 · 101s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7369389304663264558)
+  - Spoken: 300 view jail — Here are three really random reasons why you're stuck at 300 views on TikTok that you probably haven't heard yet.
+  - Text: 300 view jail
+  - Template: `here are [n] really random reasons why you're stuck at [pain number] that you probably haven't heard yet`
+  - Visual: Outdoors in a park, navy plaid shirt; a big '300 view jail' label over his head with small subtitles
+  - Why: The named pain ('300 view jail') is instantly self-identifying, and 'random reasons you haven't heard' promises something new (4.4x).
+- **3.43x** · 41k · TT · 2023-01-10 · 75s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7186778041018813738)
+  - Spoken: Here are the two things I would do if I were to start my TikTok account again from scratch. The first thing: go viral less.
+  - Text: 2 things I would do if I were to start over on TikTok again
+  - Template: `[N] things I would do if I were to start over on [platform] again`
+  - Why: 'Start over' framing + counterintuitive first tip; profile stats on screen (3.4x).
+- **3.1x** · 265k · IG · 2025-08-20 · 97s · talking_head · [link](https://www.instagram.com/reel/DNjsFSXP8ZQ/)
+  - Spoken: These are three signs you're not going to make it as a content creator. Sorry. I've grown 300,000 followers in the last year and a half...
+  - Text: 3 signs u should give up content creation
+  - Template: `[N] signs you're not going to make it as a [identity]. sorry. I've [proof]`
+  - Visual: Hood-up close-up, text hook centered; plain backdrop.
+  - Why: Negative/fear framing + count + proof in sentence 2; 3.1x.
+- **2.69x** · 274k · IG · 2026-05-05 · 92s · talking_head · [link](https://www.instagram.com/reel/DX8OoaDv-vA/)
+  - Spoken: Here's a list of every business I failed before finding my one winner that's now made $1.6 million in the past two years.
+  - Text: here's every business ... 1. Online course: $700 / 2. Dropshipping: $0 / 3. SMMA: $600 / 4. Discord: $1,000 / 5. 1:1 Coaching: $10,000 ... one winner
+  - Template: `here's every [thing] i failed before finding my one winner that's made [$X] in [timeframe]`
+  - Why: Failure list with on-screen dollar results + $1.6M payoff gives proof and a reason to watch to the end; 2.7x.
+- **2.63x** · 49k · TT · 2024-02-03 · 78s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7331066046889250094)
+  - Spoken: The key to marketing your business on social media is being extremely subtle — you have to play the 'I don't have anything to sell you' card.
+  - Text: 3 secrets to selling with your personal brand.
+  - Template: `[n] secrets to [selling/outcome] with your [asset]`
+  - Why: Counterintuitive 'be subtle' selling angle + Hormozi name-drop; 2.6x.
+- **2.49x** · 223k · IG · 2025-08-03 · 117s · talking_head · [link](https://www.instagram.com/reel/DM4bQJSuQp3/)
+  - Spoken: I'm 21 and these are 6 self-improvement habits that helped me transform my life in the last 3 years.
+  - Template: `i'm [age] and these are [n] [topic] habits that helped me [transformation] in [timeframe]`
+  - Why: 2.5x: age + count + transformation, with a 'gaming addict to business owner' before/after in sentence 2.
+- **2.23x** · 44k · TT · 2026-08-04 · 60s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7670028688162917662)
+  - Spoken: I'm gonna give y'all six viral storytelling hooks in the next 60 seconds to absolutely blow up your personal brand, starting with number one.
+  - Text: 6 viral storytelling hooks in 60 seconds
+  - Template: `[N] viral [type] hooks in 60 seconds`
+  - Why: Tight count + time box with view-count proof overlays (3.7M, 15.3M): 2.2x.
+
+## i_studied_n (2)
+
+- **20.26x** · 576k · TT · 2023-10-19 · 89s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7291700055034170667)
+  - Spoken: I spent the last 30 minutes writing down the first two sentences from 15 of the most viral videos from these creators, including myself, and I'm going to teach you the exact...
+  - Text: I spent the last 30 minutes
+  - Template: `I spent the last [time] writing down [element] from [N] of the most viral videos, and I'm going to teach you the exact [formula]`
+  - Visual: Office selfie, then hard cut to laptop Google Doc '30 Vital Hooks' / 'SENTENCE 1: HOOK'
+  - Why: Visible research artifact + promise of an exact formula; caption 'how to script viral hooks in 90 seconds' (20x).
+- **3.13x** · 64k · TT · 2026-05-25 · 115s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7643688333775867166)
+  - Spoken: I spent over 100 hours obsessing over how to build a cult-like personal brand so you don't have to — here are the 3 methods that helped me grow a 7-figure business.
+  - Text: the only 3 things you need to build a cult-like personal brand
+  - Template: `I spent over [N] hours obsessing over how to [outcome] so you don't have to — here are the [N] [methods]`
+  - Why: Effort-proof ('100 hours') + list count + 'cult-like' intensity word; 3.1x.
+
+## reaction_reply (6)
+
+- **48.69x** · 930k · TT · 2023-01-27 · 48s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7193116362632334638)
+  - Spoken: So I saw this comment on my most recent TikTok about how I hyper-edit my captions to be super fast to manipulate viewers' attention span so I always go viral.
+  - Text: Reply: It's sad how TikTok has ruined our attention spans so creators need to use tricks like these
+  - Template: `so i saw this comment saying i [accused tactic] to [result] — let's talk about it`
+  - Visual: Dark teal room, Mino sitting on bed with comment overlay, then shows phone of his own video; big word-by-word captions
+  - Why: Responding to a critical comment that doubles as a 'how I go viral' reveal; 48.7x.
+- **25.44x** · 421k · TT · 2026-03-10 · 122s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7615398437034396958)
+  - Spoken: (Stitch) "Making a good living is not that difficult" — Stitch incoming 3, 2, 1
+  - Text: Making a good living is not that difficult
+  - Template: `stitch: "[provocative claim from another creator]" -> my take`
+  - Visual: Stitch of HigherUpWellness in car with TikTok search bar 'how hard is it to make a good life' + '(Stitch incoming) 3 2 1' countdown
+  - Why: Borrowed a provocative money claim from a bigger creator and the countdown builds anticipation for the rebuttal: 25x.
+- **19.91x** · 2.0M · IG · 2024-08-27 · 88s · talking_head · [link](https://www.instagram.com/reel/C_J_NKjx978/)
+  - Spoken: [Shows viral post: 'AVERAGE MALE THOUGHT PATTERN: "I have to get my life together" (sits alone)'] I'm sorry, I don't know who needs to hear this, but this mindset will not make you successful.
+  - Text: AVERAGE MALE THOUGHT PATTERN: "I have to get my life together" (sits alone)
+  - Template: `[show viral post of a popular belief] I'm sorry, I don't know who needs to hear this, but this mindset will not make you [goal]`
+  - Visual: Opens full-screen on a screenshot of a 446k-like IG meme (lone man, city), his face pops in bottom-left by 2.5s.
+  - Why: Borrows a proven viral meme's hook (446k likes) then contradicts it; 20x.
+- **6.62x** · 105k · TT · 2024-08-27 · 88s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7407633994289859870)
+  - Spoken: I'm sorry, I don't know who needs to hear this, but this mindset will not make you successful.
+  - Text: AVERAGE MALE THOUGHT PATTERN: "I have to get my life together" (sits alone)
+  - Template: `i don't know who needs to hear this, but [viral mindset] will not make you [goal]`
+  - Visual: Green-screens himself over a screenshot of a viral 446K-like 'Average Male Thought Pattern' sigma reel
+  - Why: Reacts against a viral sigma-grindset reel — borrowing its familiarity while taking the contrarian side; 6.6x.
+- **5.83x** · 105k · TT · 2023-09-28 · 80s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7283624400614624554)
+  - Spoken: Reply to SAM LEE's comment "Dude idk how u have $2 rpm bro" — I have a confession to make.
+  - Text: Dude idk how u have $2 rpm bro / I have a confession to make
+  - Template: `reply to comment: I have a confession to make about [money claim]`
+  - Visual: Comment bubble over a campus street selfie, then a green-screen cut to the Creator Rewards dashboard ($55.75, RPM $2.25)
+  - Why: 'Confession' plus a hot money topic (Creativity Program RPM) with dashboard receipts (5.8x).
+- **4.77x** · 373k · IG · 2026-04-02 · 65s · talking_head · [link](https://www.instagram.com/reel/DWmUz6yF0Cs/)
+  - Spoken: So I saw a video last night of Alex Hormozi basically saying that to survive and get rich in the age of AI, you need to study the porn industry.
+  - Template: `i saw [famous authority] say that to [big goal] in the age of [trend], you need to [shocking thing]`
+  - Visual: Walking on NYC street with handheld mic; Hormozi 'AI IS HERE / How to Win With AI in 2026' YouTube thumbnail overlaid at 1 s.
+  - Why: Borrowed big-name authority + timely AI topic + a shock twist ('porn industry') (4.8x).
+
+## question_hook (6)
+
+- **39.45x** · 434k · TT · 2022-10-17 · 49s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7155197517792283950)
+  - Spoken: Do hashtags actually make your video get more views on TikTok? Well, maybe.
+  - Text: Hashtags actually make your video ... on TikTok?
+  - Template: `do [common tactic] actually [desired result] on [platform]?`
+  - Visual: Plain white tee against a green LED strip wall; huge bold word-by-word captions 'Hashtags / actually / make your video / on TikTok?'
+  - Why: A myth every beginner googles, put as a yes/no question with a teasing 'well, maybe'; easily the account's biggest outlier (39x).
+- **14.55x** · 1.3M · IG · 2024-05-05 · 85s · talking_head · [link](https://www.instagram.com/reel/C6kclhlNPcO/)
+  - Spoken: What is the species of human you hate the most? I'll go first. Runners. They always act like they're better than you with their runner's high.
+  - Template: `what is the [group] you hate the most? i'll go first: [target group]`
+  - Visual: Close-up selfie with lav mic, then hard cut to a selfie running through a half-marathon start arch with crowd.
+  - Why: Provocative question with an instant funny punchline that baits a big group (runners) into commenting, then a half-marathon challenge payoff (14.6x).
+- **8.5x** · 853k · IG · 2025-06-14 · 96s · talking_head · [link](https://www.instagram.com/reel/DK2yyW_BYvN/)
+  - Spoken: You ever notice the most disciplined people are usually the most busy? The kids I know running businesses making $100,000, $200,000 are never the people who have every reason why they just can't show up.
+  - Text: You ever notice disciplined people... the kids I know
+  - Template: `you ever notice the most [desired trait] people are usually the most [counterintuitive trait]?`
+  - Visual: Talking head in white robe/towel under concrete overhang, word captions — casual post-shower authority
+  - Why: Counterintuitive observation that dismantles the 'no time' excuse, backed by six-figure peers; quotable → 8.5x.
+- **3.3x** · 291k · IG · 2026-02-28 · 54s · talking_head · [link](https://www.instagram.com/reel/DVS2QyQlkuJ/)
+  - Spoken: If there was a video game ranking for how fit you are, what ranking do you think you would be?
+  - Template: `if there was a video game ranking for [trait], what ranking do you think you would be?`
+  - Visual: Bright orange gym backdrop, smiling selfie, cut to rowing/BOX equipment b-roll with 'video game' caption.
+  - Why: Gamified self-assessment invites viewers to test themselves; 3.3x.
+- **2.43x** · 216k · IG · 2026-04-09 · 23s · talking_head · [link](https://www.instagram.com/reel/DW5uiYKl2kY/)
+  - Spoken: Which one do you think is scarier? A, public speaking, B, talking to women, or C...
+  - Text: what do u think is scarier?
+  - Template: `which one do you think is scarier? A, [fear], B, [fear], or C, [fear]?`
+  - Visual: Holds a laptop to camera showing a quiz slide ('what do u think is scarier?') with pictures, then big 'A — public speaking' slide.
+  - Why: Multiple-choice quiz invites comments/votes; short (23s) for rewatches; 2.4x.
+- **2.34x** · 206k · IG · 2024-05-12 · 79s · talking_head · [link](https://www.instagram.com/reel/C63EGYcutaa/)
+  - Spoken: Yo, to everyone else who's unemployed or self-employed, how do you answer the question 'What do you do for a living?'
+  - Text: to everyone else [who's unemployed] or self-employed,
+  - Template: `to everyone who's [identity], how do you answer [awkward question]?`
+  - Why: Names an awkward shared moment for a specific identity and invites comments → 2.3x.
+
+## before_after_transformation (1)
+
+- **24.51x** · 2.1M · IG · 2025-08-10 · 62s · voiceover_broll · [link](https://www.instagram.com/reel/DNKaR0Eu2ti/)
+  - Spoken: This is Prosper, and when we first spoke two years ago he told me he used to think I was a cocky prick because I posted videos online.
+  - Template: `this is [person], and when we first met [time] ago he told me he used to think i was [insult] because i [your thing]`
+  - Visual: Two shirtless shredded guys posing side by side in a dark gym, then cut to Prosper's 'before' sitting outside in a hoodie.
+  - Why: 24x: physique-proof first frame + insult confession sets up a then-vs-now transformation arc of a friend.
+
+## series_episode (1)
+
+- **2.3x** · 249k · IG · 2024-08-07 · 42s · vlog_story · [link](https://www.instagram.com/reel/C-VtLiWRA-5/)
+  - Spoken: 218 days ago we set a goal to make $100,000 a month. Last month we made $15,000, so this month our goal is to hit 25k.
+  - Template: `[N] days ago we set a goal to make [$X/month]. last month we made [$Y], so this month our goal is [$Z]`
+  - Why: Running money tracker with a clear monthly target gives built-in stakes; 2.3x.
+
+## other (15)
+
+- **24.49x** · 143k · TT · 2025-09-06 · 176s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7546686681873796382)
+  - Spoken: life-changing advice from a $400M founder — I just spent an hour talking to this 29-year-old who built a $30 million a year company in literally just 4 years, and I asked him how I can scale my $100k a month business to...
+  - Text: life-changing advice from a $400M founder
+  - Template: `life-changing advice from a [$X] founder — I just spent [time] talking to this [age]-year-old who built [result] in [timeframe]`
+  - Visual: Tight selfie, green shirt, two-line white title + word-by-word subtitles
+  - Why: Borrowed authority stacked with big money numbers and a young-age contrast (24x).
+- **9.72x** · 564k · IG · 2023-12-29 · 59s · talking_head · [link](https://www.instagram.com/reel/C1aHYw7xfxQ/)
+  - Spoken: Trust the process, 'cause nothing's ever gonna make sense in the moment. This year I started five different businesses. Hit my first 10K month.
+  - Text: Trust the process. Nothing's ever gonna make sense in the moment
+  - Template: `trust the process — [reframe]. this year i [personal result]`
+  - Visual: Blue-lit room selfie, then cut to gym bench press
+  - Why: Quotable year-end lesson backed by fast proof (5 businesses, first 10k month) in sentence 2 (9.7x).
+- **7.3x** · 918k · IG · 2026-02-03 · 55s · talking_head · [link](https://www.instagram.com/reel/DUR4Pl8jV6a/)
+  - Spoken: There's this new video style blowing up on Instagram where it's never been easier for regular people to blow up and build a following. Like I just grew this account from zero to 30K followers.
+  - Text: there's this new video style blowing up on Instagram
+  - Template: `there's this new [content style] blowing up on [platform] where it's never been easier for regular people to [result]`
+  - Visual: Talking head, then phone screen-records of example reels ('Real sales call', 'I can't afford') as proof.
+  - Why: 7.3x: novelty + accessibility ('regular people') + quick proof of an account grown 0 to 30K, with example reels on screen.
+- **6.35x** · 882k · IG · 2024-12-31 · 61s · vlog_story · [link](https://www.instagram.com/reel/DENr3cpRLpt/)
+  - Spoken: Sorry, I don't make the rules. If you're seeing this, this is your sign to run a spontaneous half marathon with your boys.
+  - Template: `sorry, i don't make the rules. if you're seeing this, this is your sign to [spontaneous challenge] with your [friends]`
+  - Visual: Outdoor suburban selfie in hoodie, big grin, then cut to a phone screen showing his face — fast cuts.
+  - Why: 'This is your sign' + absurd spontaneous challenge with friends = highly sendable; 6.4x.
+- **4.67x** · 431k · IG · 2025-09-06 · 85s · talking_head · [link](https://www.instagram.com/reel/DONV_2Bjxfj/)
+  - Spoken: Iman Gadzhi, this YouTuber who's made over $100 million online, recommends this book, Reality Transurfing, as his number one book recommendation.
+  - Text: Iman Gadzhi - this YouTuber... over $100 million online
+  - Template: `[famous rich person], who's made [$ amount], recommends [this book] as his #1 book recommendation`
+  - Visual: Talking head with Iman Gadzhi headshot pop-in, then YouTube title screenshot 'How He Made $100m' as receipt
+  - Why: Borrowed celebrity authority + $100M number + obscure esoteric book = strong curiosity → 4.7x.
+- **4.61x** · 141k · TT · 2026-07-27 · 152s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7667177384239484191)
+  - Spoken: $100k/month vs $1M/month personal brand — I just spent the last 24 hours hanging out with creators making $300k to multiple millions a month, and I realized there was a key difference.
+  - Text: $100k/month vs $1M/month personal brand
+  - Template: `[$X/month] vs [$Y/month] [category] — I just spent [time] with [elite group] and realized the key difference`
+  - Visual: Seated in an office/airport-like space with wired earbuds, green tee, gesturing fist; two-line yellow-ish title.
+  - Why: Aspirational income comparison + 'key difference' curiosity gap (4.6x).
+- **4.48x** · 62k · TT · 2026-09-10 · 27s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7683647321564941598)
+  - Spoken: Hey Claude, I don't want my videos to stay stuck under 1,000 views forever, so check if my hook has specific, clear, direct language...
+  - Text: hey Claude / my videos / 1,000 views
+  - Template: `hey [AI tool], I don't want my [thing] stuck under [pain number] forever, so check [criteria]`
+  - Why: Trendy AI-prompt format + 1k-views pain in a short 27 s video; 4.5x.
+- **4.26x** · 50k · TT · 2024-05-22 · 74s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7371600541740289323)
+  - Spoken: You only have 3 months. Lock in. — "Summertime is the one unique opportunity you get once a year to genuinely change everything about your life."
+  - Text: You only have 3 months. Lock in.
+  - Template: `you only have [short window]. lock in.`
+  - Why: Seasonal deadline urgency ('summer') + 'lock in' slang: 4.3x.
+- **4.15x** · 305k · IG · 2026-10-15 · 42s · talking_head · [link](https://www.instagram.com/reel/DegXneUNOip/)
+  - Spoken: So I just discovered that Claude can edit your videos for you, and I'm becoming an absolute maniac with it.
+  - Text: POV: Claude is editing 7 REELS while i sleep (idek how to code)
+  - Template: `POV: [AI tool] is [doing task] while i sleep (idek how to [skill])`
+  - Visual: Hands-to-head 'mind blown' gestures, excited, in an LED-lit room; POV text on top.
+  - Why: Fresh AI-tool novelty + passive 'while i sleep' result + a 'no coding' disclaimer that lowers the barrier (4.2x).
+- **3.77x** · 45k · TT · 2023-04-28 · 117s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7226825267166121259)
+  - Spoken: Hamza has absolutely blown up in the men's self-improvement niche in the past year — hate him or love him, he's an absolute content and marketing genius.
+  - Text: Hamza's genius yet ethically questionable audience building hacks
+  - Template: `[famous creator]'s genius yet ethically questionable [growth] hacks`
+  - Why: Riding a polarizing creator's name with an 'ethically questionable' tease; 3.8x.
+- **3.76x** · 58k · TT · 2024-11-05 · 55s · talking_head · [link](https://www.tiktok.com/@mino.mp4/video/7433832426163490079)
+  - Spoken: I don't know who needs to hear this, but there's never going to be a more convenient time to start.
+  - Text: I don't know who needs to hear this
+  - Template: `I don't know who needs to hear this, but [hard truth]`
+  - Why: Universal motivational truth backed by '200 videos this year' (3.8x).
+- **3.58x** · 446k · IG · 2025-04-30 · 35s · voiceover_broll · [link](https://www.instagram.com/reel/DJE7kfHxngO/)
+  - Spoken: 'bro is NOT an influencer' — What is this guy doing, what the f*ck? In the past 15 months I have grown 300,000 followers on Instagram and sold...
+  - Text: bro is NOT an influencer
+  - Template: `[self-roast meme caption over unglamorous footage] in the past [timeframe] I have grown [N] followers and [result]`
+  - Visual: Wide b-roll of him benching in a gritty outdoor gym; meme caption with crying/skull emojis.
+  - Why: Self-deprecating meme caption creates gap, then big follower proof flips it; 3.6x.
+- **3.31x** · 203k · IG · 2026-10-16 · 31s · talking_head · [link](https://www.instagram.com/reel/DejCX63y2LM/)
+  - Spoken: Update on my Claude editing team: it's now 3:30 a.m. and we have multiplied - it's gone from two...
+  - Text: POV: you asked claude to edit and it already made u viral
+  - Template: `POV: you asked [AI tool] to [task] and it already [result]`
+  - Why: Follow-up rides the same AI-editing novelty wave while it's still fresh (3.3x).
+- **2.86x** · 287k · IG · 2024-06-24 · 72s · talking_head · [link](https://www.instagram.com/reel/C8muzaCx7S7/)
+  - Spoken: One of the most life-changing pieces of advice I've ever heard is: stop listening to people who don't have the life you want.
+  - Template: `one of the most life-changing pieces of advice I've ever heard is [quotable rule]`
+  - Visual: Sitting at table dumping a bag of LEGO-like pieces out; living room with poster.
+  - Why: Instantly quotable, shareable rule delivered in sentence 1 + odd prop; 2.9x.
+- **2.33x** · 228k · IG · 2024-11-12 · 43s · voiceover_broll · [link](https://www.instagram.com/reel/DCQiLEmRYJT/)
+  - Spoken: Guess my actual body fat percentage. This is my physique with no pump, and with a pump and good lighting. Stick to the end of the video to see what my actual body fat percentage is.
+  - Template: `guess my actual [metric]. stick to the end to see`
+  - Visual: Pulls shirt off on DC street; 'ACTUAL' caption; shirtless posing.
+  - Why: Interactive guess + shirtless physique; 2.3x.
